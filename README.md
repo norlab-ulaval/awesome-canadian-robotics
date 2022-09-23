@@ -10,7 +10,7 @@ The maintenance of this list is aligned with the proposition of the [Canadian Ro
 
 ## Compagnies
 - Kinova
-- Clearpath
+- Clearpath: https://github.com/clearpathrobotics
 
 ## Laboratories
 - [Norlab](https://norlab.ulaval.ca/): https://github.com/norlab-ulaval
