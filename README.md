@@ -5,6 +5,17 @@
 A curated list of Canadian robotics open-source software, compagnies and researchers.
 The maintenance of this list is aligned with the proposition of the [Canadian Robotics Council](https://www.roboticscouncil.ca) to better share information about robotics initiative in Canada.
 
+## Contents
+
+- [Open-Source Software](#open-source-software)
+- [Companies](#companies)
+  - [Robot manufacturers](#robot-manufacturers)
+  - [Robotics applied to Natural Resources](#robotics-applied-to-natural-resources)
+- [Organisations and Divisions](#organisations-and-divisions)
+- [Laboratories](#laboratories)
+  - [Ethics and Human-Robot Interaction](#ethics-and-human-robot-interaction)
+- [Related Awesome Lists](#related-awesome-lists)
+
 ## Open-Source Software
 
 You need at least 15 stars on your repository to be listed here.
@@ -72,7 +83,5 @@ Teams or divisions working on robotics within a larger organization.
 - [RAISE Lab](https://raise.cim.mcgill.ca)
 - [ASB Lab](http://asblab.mie.utoronto.ca)
 - [CARIS Lab](https://caris.mech.ubc.ca)
-
-
 
 ## Related Awesome Lists
