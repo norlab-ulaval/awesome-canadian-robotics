@@ -53,9 +53,10 @@ Teams or divisions working on robotics within a larger organization.
 <!-- - NOTE: add keywords to lab, it might be hard categorize them as they cover mulitple topics -->
 
 - [Norlab](https://norlab.ulaval.ca): Autonomous vehicles, lidars, SLAM, and control, [GitHub](https://github.com/norlab-ulaval)
-- [STARS Laboratory](https://starslab.ca/) : [GitHub](https://github.com/utiasSTARS)
-<!-- - [Joshua Marshall lab]() -->
-<!-- - [Tim Barfoot lab] -->
+- [STARS Laboratory](https://starslab.ca/): [GitHub](https://github.com/utiasSTARS)
+- [Offroad Robotics](https://offroad.engineering.queensu.ca/): Field and mobile robotics, state estimation, mechatronics, and systems control, [GitHub](https://github.com/offroad-robotics)
+- [Autonomous Space Robotics Lab](http://asrl.utias.utoronto.ca/): Mobile robots, Vision-based navigation, [GitHub](https://github.com/utiasASRL)
+- [Mobile Robotics and Autonomous Systems Laboratory](https://www.polymtl.ca/robotique-mobile/en): Perception, control, real-time planning and decision-making under uncertainty
 <!-- - [Intelligent machine Lab] -->
 <!-- - Inna Scharf Lab -->
 <!-- - UNB Robotics -->
