@@ -67,6 +67,7 @@ Teams or divisions working on robotics within a larger organization.
 <!-- - UPEI -->
 <!-- - UBC -->
 <!-- - UAlberta -->
+- [Robotarium Laboratory](https://www.uvs-robotarium-lab.ca/): Control, Artificial Intelligence, Navigation, Localization, Mapping, Robot Cooperation & Collaboration, Human-Robot Interaction (HRI)
 <!-- - USherbrooke -->
 <!-- - UMontreal -->
 <!-- - UQAM - ETS -->
