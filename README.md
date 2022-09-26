@@ -38,7 +38,7 @@ You need at least 10 employees to be listed here.
 ### Robotics applied to Natural Resources
 
 - [MacLean Engineering](https://macleanengineering.com)
-- FPInnovation
+
 
 ## Organisations and Divisions
 
@@ -47,15 +47,16 @@ Teams or divisions working on robotics within a larger organization.
 - Hydro-Québec - [Robotics team at IREQ](http://www.hydroquebec.com/robotics)
 - General Dynamics Land System Canada
 - LeddarTech
-
+- FPInnovation
+- MDA
 
 ## Laboratories
 <!-- - NOTE: add keywords to lab, it might be hard categorize them as they cover mulitple topics -->
 
-- [Norlab](https://norlab.ulaval.ca): Autonomous vehicles, lidars, SLAM, and control, [GitHub](https://github.com/norlab-ulaval)
-- [STARS Laboratory](https://starslab.ca/): [GitHub](https://github.com/utiasSTARS)
+- Northen Robotics Laboratory ([Norlab](https://norlab.ulaval.ca)): Autonomous vehicles, lidars, SLAM, and control, [GitHub](https://github.com/norlab-ulaval)
+- Space and Terrestrial Autonomous Robotic Systems ([STARS Laboratory](https://starslab.ca/)): [GitHub](https://github.com/utiasSTARS)
 - [Offroad Robotics](https://offroad.engineering.queensu.ca/): Field and mobile robotics, state estimation, mechatronics, and systems control, [GitHub](https://github.com/offroad-robotics)
-- [Autonomous Space Robotics Lab](http://asrl.utias.utoronto.ca/): Mobile robots, Vision-based navigation, [GitHub](https://github.com/utiasASRL)
+- Autonomous Space Robotics Lab [ASRL](http://asrl.utias.utoronto.ca/): Mobile robots, Vision-based navigation, [GitHub](https://github.com/utiasASRL)
 - [Mobile Robotics and Autonomous Systems Laboratory](https://www.polymtl.ca/robotique-mobile/en): Perception, control, real-time planning and decision-making under uncertainty
 <!-- - [Intelligent machine Lab] -->
 <!-- - Inna Scharf Lab -->
