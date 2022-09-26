@@ -31,7 +31,7 @@ You need at least 15 stars on your repository to be listed here.
 Companies with their primary mission focusing on robotics.
 
 - Kinova
-- Clearpath: https://github.com/clearpathrobotics
+- Clearpath: [GitHub](https://github.com/clearpathrobotics){:target="_blank" rel="noopener"}
 - Robotiq
 - OTTO Motors
 
