@@ -53,31 +53,31 @@ Teams or divisions working on robotics within a larger organization.
 ## Laboratories
 
 - [Norlab](https://norlab.ulaval.ca): https://github.com/norlab-ulaval
-<!-- - [Joshua Marshall lab]()
-- [Atlas UofT]
-- [Tim Barfoot lab]
-- [Intelligent machine Lab]
-- Inna Scharf Lab
-- UNB Robotics
-- Dartmouth University
-- Memorial University
-- UMoncton Robotique
-- UPEI
-- UBC
-- UAlberta
-- USherbrooke
-- UMontreal
-- UQAM - ETS
-- McGill
-- UOttawa
-- UManitoba
-- Queens
-- York University
-- McMaster University
+- [STARS Laboratory](https://starslab.ca/) : https://github.com/utiasSTARS
+<!-- - [Joshua Marshall lab]() -->
+<!-- - [Tim Barfoot lab] -->
+<!-- - [Intelligent machine Lab] -->
+<!-- - Inna Scharf Lab -->
+<!-- - UNB Robotics -->
+<!-- - Dartmouth University -->
+<!-- - Memorial University -->
+<!-- - UMoncton Robotique -->
+<!-- - UPEI -->
+<!-- - UBC -->
+<!-- - UAlberta -->
+<!-- - USherbrooke -->
+<!-- - UMontreal -->
+<!-- - UQAM - ETS -->
+<!-- - McGill -->
+<!-- - UOttawa -->
+<!-- - UManitoba -->
+<!-- - Queens -->
+<!-- - York University -->
+<!-- - McMaster University -->
 
 
-- INRS
-- CNRC -->
+<!-- - INRS -->
+<!-- - CNRC -->
 
 ### Ethics and Human-Robot Interaction
 
