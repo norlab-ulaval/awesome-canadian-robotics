@@ -58,6 +58,7 @@ Teams or divisions working on robotics within a larger organization.
 - [Offroad Robotics](https://offroad.engineering.queensu.ca/): Field and mobile robotics, state estimation, mechatronics, and systems control, [GitHub](https://github.com/offroad-robotics)
 - Autonomous Space Robotics Lab [ASRL](http://asrl.utias.utoronto.ca/): Mobile robots, Vision-based navigation, [GitHub](https://github.com/utiasASRL)
 - [Mobile Robotics and Autonomous Systems Laboratory](https://www.polymtl.ca/robotique-mobile/en): Perception, control, real-time planning and decision-making under uncertainty
+- [Advanced Robotics and Intelligent Systems (ARIS) Laboratory](https://syang.uoguelph.ca/aris/): Intelligent Systems, Robotics, Control Systems, Vision and Signal Processing, Sensors, Communications
 <!-- - [Intelligent machine Lab] -->
 <!-- - Inna Scharf Lab -->
 <!-- - UNB Robotics -->
