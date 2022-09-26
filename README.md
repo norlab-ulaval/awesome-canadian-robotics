@@ -53,7 +53,7 @@ Teams or divisions working on robotics within a larger organization.
 ## Laboratories
 <!-- - NOTE: add keywords to lab, it might be hard categorize them as they cover mulitple topics -->
 
-- Northen Robotics Laboratory ([Norlab](https://norlab.ulaval.ca)): Autonomous vehicles, lidars, SLAM, and control, [GitHub](https://github.com/norlab-ulaval)
+- Northern Robotics Laboratory ([Norlab](https://norlab.ulaval.ca)): Autonomous vehicles, lidars, SLAM, and control, [GitHub](https://github.com/norlab-ulaval)
 - Space and Terrestrial Autonomous Robotic Systems ([STARS Laboratory](https://starslab.ca/)): [GitHub](https://github.com/utiasSTARS)
 - [Offroad Robotics](https://offroad.engineering.queensu.ca/): Field and mobile robotics, state estimation, mechatronics, and systems control, [GitHub](https://github.com/offroad-robotics)
 - Autonomous Space Robotics Lab [ASRL](http://asrl.utias.utoronto.ca/): Mobile robots, Vision-based navigation, [GitHub](https://github.com/utiasASRL)
