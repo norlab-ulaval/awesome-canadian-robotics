@@ -13,7 +13,6 @@ The maintenance of this list is aligned with the proposition of the [Canadian Ro
   - [Robotics applied to Natural Resources](#robotics-applied-to-natural-resources)
 - [Organisations and Divisions](#organisations-and-divisions)
 - [Laboratories](#laboratories)
-  - [Ethics and Human-Robot Interaction](#ethics-and-human-robot-interaction)
 - [Related Awesome Lists](#related-awesome-lists)
 
 ## Open-Source Software
@@ -39,21 +38,22 @@ You need at least 10 employees to be listed here.
 ### Robotics applied to Natural Resources
 
 - [MacLean Engineering](https://macleanengineering.com)
+- FPInnovation
 
 ## Organisations and Divisions
 
 Teams or divisions working on robotics within a larger organization.
 
 - Hydro-Québec - [Robotics team at IREQ](http://www.hydroquebec.com/robotics)
-- FPInnovation
 - General Dynamics Land System Canada
 - LeddarTech
 
 
 ## Laboratories
+<!-- - NOTE: add keywords to lab, it might be hard categorize them as they cover mulitple topics -->
 
-- [Norlab](https://norlab.ulaval.ca): https://github.com/norlab-ulaval
-- [STARS Laboratory](https://starslab.ca/) : https://github.com/utiasSTARS
+- [Norlab](https://norlab.ulaval.ca): Autonomous vehicles, lidars, SLAM, and control, [GitHub](https://github.com/norlab-ulaval)
+- [STARS Laboratory](https://starslab.ca/) : [GitHub](https://github.com/utiasSTARS)
 <!-- - [Joshua Marshall lab]() -->
 <!-- - [Tim Barfoot lab] -->
 <!-- - [Intelligent machine Lab] -->
@@ -79,10 +79,12 @@ Teams or divisions working on robotics within a larger organization.
 <!-- - INRS -->
 <!-- - CNRC -->
 
-### Ethics and Human-Robot Interaction
-
-- [RAISE Lab](https://raise.cim.mcgill.ca)
-- [ASB Lab](http://asblab.mie.utoronto.ca)
-- [CARIS Lab](https://caris.mech.ubc.ca)
+- [RAISE Lab](https://raise.cim.mcgill.ca): Ethics and Human-Robot Interaction
+- [ASB Lab](http://asblab.mie.utoronto.ca): Ethics and Human-Robot Interaction
+- [CARIS Lab](https://caris.mech.ubc.ca): Ethics and Human-Robot Interaction
 
 ## Related Awesome Lists
+
+- [Awesome LIDAR](https://github.com/szenergy/awesome-lidar/)
+- [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries/)
+- [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds)
