@@ -103,11 +103,13 @@ The list is sorted by alphabetical order.
 
 ### Quebec
 
-- Northern Robotics Laboratory ([Norlab](https://norlab.ulaval.ca)): Autonomous vehicles, lidars, SLAM, and control, [GitHub](https://github.com/norlab-ulaval)
+- Northern Robotics Laboratory ([Norlab](https://norlab.ulaval.ca)), Université Laval: 
+  - Autonomous vehicles, lidars, SLAM, and control, [GitHub](https://github.com/norlab-ulaval)
   - Director: [François Pomerleau](https://scholar.google.com/citations?user=FJ9IqNoAAAAJ&hl=en)
 - [Mobile Robotics and Autonomous Systems Laboratory](https://www.polymtl.ca/robotique-mobile/en): Perception, control, real-time planning and decision-making under uncertainty
 - [RAISE Lab](https://raise.cim.mcgill.ca): Ethics and Human-Robot Interaction
--
+- [Laboratoire de robotique](https://robot.gmc.ulaval.ca/en/home), Université Laval: TODO keywords
+  -  Director: [Clément Gosselin](https://scholar.google.com/citations?user=O9VSIMoAAAAJ)
 
 ## Related Awesome Lists
 
