@@ -43,7 +43,6 @@ The list is sorted by alphabetical order.
 
 - [MacLean Engineering](https://macleanengineering.com)
 
-
 ## Organisations and Divisions
 
 Teams or divisions working on robotics within a larger organization.
@@ -55,10 +54,12 @@ Teams or divisions working on robotics within a larger organization.
 - MDA
 
 ## Laboratories
+
 To be on this list, the director has to have at least 1000 citations on Google Scholar.
 The list is sorted by alphabetical order.
 <!-- - NOTE: add keywords to lab, it might be hard categorize them as they cover mulitple topics -->
 
+<!-- - CNRC -->
 
 ### British Columbia
 
@@ -66,50 +67,76 @@ The list is sorted by alphabetical order.
 - [CARIS Lab](https://caris.mech.ubc.ca): Ethics and Human-Robot Interaction
 - [MARS Lab](https://sfumars.com): Robotic safety, Reinforcement learning, Human intent inference, Visual navigation
 - [ROSIE Lab](https://www.rosielab.ca): Social Intelligence, Empathy, Human-Robot Interaction
+- [UBC Robotics and Control Laboratory](https://rcl.ece.ubc.ca/home-page/): Medical image analysis, Image guided diagnosis and interventions, Telerobotic, Robotic control of mobile machines and manipulators
+  - Directors:
+    - [Purang Abolmaesumi](https://scholar.google.ca/citations?user=gKZS5-IAAAAJ)
+    - [Tim Salcudean](https://scholar.google.ca/citations?user=kpp_A9wAAAAJ)
+    - [Robert Rohling](https://scholar.google.ca/citations?user=_KwSTGIAAAAJ)
+<!-- More UBC ? -->
 
 ### Alberta
 
 - [Robotarium Laboratory](https://www.uvs-robotarium-lab.ca/): Control, Artificial Intelligence, Navigation, Localization, Mapping, Robot Cooperation & Collaboration, Human-Robot Interaction (HRI)
+<!-- - UAlberta -->
+
+### Manitoba
+
+<!-- UManitoba -->
 
 ### Ontario
+
 - Space and Terrestrial Autonomous Robotic Systems ([STARS Laboratory](https://starslab.ca/)): [GitHub](https://github.com/utiasSTARS)
 - [Offroad Robotics](https://offroad.engineering.queensu.ca/): Field and mobile robotics, state estimation, mechatronics, and systems control, [GitHub](https://github.com/offroad-robotics)
 - Autonomous Space Robotics Lab [ASRL](http://asrl.utias.utoronto.ca/): Mobile robots, Vision-based navigation, [GitHub](https://github.com/utiasASRL)
 - [Advanced Robotics and Intelligent Systems (ARIS) Laboratory](https://syang.uoguelph.ca/aris/): Intelligent Systems, Robotics, Control Systems, Vision and Signal Processing, Sensors, Communications
-<!-- - [Intelligent machine Lab] -->
-<!-- - Inna Scharf Lab -->
-<!-- - UNB Robotics -->
-<!-- - Dartmouth University -->
-<!-- - Memorial University -->
-<!-- - UMoncton Robotique -->
-<!-- - UPEI -->
-<!-- - UBC -->
-<!-- - UAlberta -->
-
-<!-- - USherbrooke -->
-<!-- - UMontreal -->
-<!-- - UQAM - ETS -->
-<!-- - McGill -->
-<!-- - UOttawa -->
-<!-- - UManitoba -->
-<!-- - Queens -->
-<!-- - York University -->
-<!-- - McMaster University -->
-
-<!-- - INRS -->
-<!-- - CNRC -->
-
 - [ASB Lab](http://asblab.mie.utoronto.ca): Ethics and Human-Robot Interaction
+
+<!-- UOttawa -->
+<!-- Queens -->
+<!-- York University -->
+<!-- McMaster University -->
+<!-- Ryerson University -->
+
+
+
+
+
+
 
 ### Quebec
 
-- Northern Robotics Laboratory ([Norlab](https://norlab.ulaval.ca)), Université Laval: 
+<!-- Inna Scharf Lab -->
+<!-- [Intelligent machine Lab] -->
+<!-- USherbrooke -->
+<!-- UMontreal -->
+<!-- UQAM - ETS -->
+<!-- McGill -->
+<!-- INRS -->
+- [Laboratoire de robotique](https://robot.gmc.ulaval.ca/en/home), Université Laval: Parallel mechanisms, Articulated robotic hands, Cable-driven parallel mechanisms, Physical human-robot interaction, Haptic devices, Assistive devices
+  - Director: [Clément Gosselin](https://scholar.google.fr/citations?user=O9VSIMoAAAAJ)
+- Northern Robotics Laboratory ([Norlab](https://norlab.ulaval.ca)), Université Laval:
   - Autonomous vehicles, lidars, SLAM, and control, [GitHub](https://github.com/norlab-ulaval)
   - Director: [François Pomerleau](https://scholar.google.com/citations?user=FJ9IqNoAAAAJ&hl=en)
 - [Mobile Robotics and Autonomous Systems Laboratory](https://www.polymtl.ca/robotique-mobile/en): Perception, control, real-time planning and decision-making under uncertainty
 - [RAISE Lab](https://raise.cim.mcgill.ca): Ethics and Human-Robot Interaction
-- [Laboratoire de robotique](https://robot.gmc.ulaval.ca/en/home), Université Laval: TODO keywords
-  -  Director: [Clément Gosselin](https://scholar.google.com/citations?user=O9VSIMoAAAAJ)
+
+### New Brunswick
+
+- [Robotics and Mechanisms Laboratory](https://www2.unb.ca/ram/links/links.html): Parallel manipulators, Simulation of robotic systems
+  - Director: [Juan A. Carretero](https://scholar.google.com.tw/citations?user=dGVqmGAAAAAJ)
+<!-- - UNB Robotics -->
+
+### Nova Scotia
+
+<!-- - Dartmouth University -->
+
+### Prince Edward Island
+
+<!-- - UPEI -->
+
+### Newfoundland
+
+<!-- Memorial University -->
 
 ## Related Awesome Lists
 
