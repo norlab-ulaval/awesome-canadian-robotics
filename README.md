@@ -64,9 +64,13 @@ The list is sorted by alphabetical order.
 ### British Columbia
 
 - [AIRob Lab](https://robotics.sfu.ca/airob.html): Automated planning, Multi-Agent/Robot Systems, Spatio-Temporal and Constraint Reasoning
+  - Director: [Hang Ma](https://scholar.google.ca/citations?user=KJbsVl8AAAAJ)
 - [CARIS Lab](https://caris.mech.ubc.ca): Ethics and Human-Robot Interaction
+  - Director: [Machiel Van der Loos](https://scholar.google.ca/citations?user=ze-QdW0AAAAJ)
 - [MARS Lab](https://sfumars.com): Robotic safety, Reinforcement learning, Human intent inference, Visual navigation
+  - Director: [Mo Chen](https://scholar.google.ca/citations?user=19UAgLUAAAAJ)
 - [ROSIE Lab](https://www.rosielab.ca): Social Intelligence, Empathy, Human-Robot Interaction
+  - Director: [Angelica Lim](https://scholar.google.ca/citations?user=1jQEmPUAAAAJ)
 - [UBC Robotics and Control Laboratory](https://rcl.ece.ubc.ca/home-page/): Medical image analysis, Image guided diagnosis and interventions, Telerobotic, Robotic control of mobile machines and manipulators
   - Directors:
     - [Purang Abolmaesumi](https://scholar.google.ca/citations?user=gKZS5-IAAAAJ)
@@ -113,17 +117,17 @@ The list is sorted by alphabetical order.
 <!-- McGill -->
 <!-- INRS -->
 - [Laboratoire de robotique](https://robot.gmc.ulaval.ca/en/home), Université Laval: Parallel mechanisms, Articulated robotic hands, Cable-driven parallel mechanisms, Physical human-robot interaction, Haptic devices, Assistive devices
-  - Director: [Clément Gosselin](https://scholar.google.fr/citations?user=O9VSIMoAAAAJ)
+  - Director: [Clément Gosselin](https://scholar.google.ca/citations?user=O9VSIMoAAAAJ)
 - Northern Robotics Laboratory ([Norlab](https://norlab.ulaval.ca)), Université Laval:
   - Autonomous vehicles, lidars, SLAM, and control, [GitHub](https://github.com/norlab-ulaval)
-  - Director: [François Pomerleau](https://scholar.google.com/citations?user=FJ9IqNoAAAAJ&hl=en)
+  - Director: [François Pomerleau](https://scholar.google.ca/citations?user=FJ9IqNoAAAAJ&hl=en)
 - [Mobile Robotics and Autonomous Systems Laboratory](https://www.polymtl.ca/robotique-mobile/en): Perception, control, real-time planning and decision-making under uncertainty
 - [RAISE Lab](https://raise.cim.mcgill.ca): Ethics and Human-Robot Interaction
 
 ### New Brunswick
 
 - [Robotics and Mechanisms Laboratory](https://www2.unb.ca/ram/links/links.html): Parallel manipulators, Simulation of robotic systems
-  - Director: [Juan A. Carretero](https://scholar.google.com.tw/citations?user=dGVqmGAAAAAJ)
+  - Director: [Juan A. Carretero](https://scholar.google.ca/citations?user=dGVqmGAAAAAJ)
 <!-- - UNB Robotics -->
 
 ### Nova Scotia
