@@ -61,7 +61,15 @@ The list is sorted by alphabetical order.
 
 
 ### British Columbia
+
+- [AIRob Lab](https://robotics.sfu.ca/airob.html): Automated planning, Multi-Agent/Robot Systems, Spatio-Temporal and Constraint Reasoning
 - [CARIS Lab](https://caris.mech.ubc.ca): Ethics and Human-Robot Interaction
+- [MARS Lab](https://sfumars.com): Robotic safety, Reinforcement learning, Human intent inference, Visual navigation
+- [ROSIE Lab](https://www.rosielab.ca): Social Intelligence, Empathy, Human-Robot Interaction
+
+### Alberta
+
+- [Robotarium Laboratory](https://www.uvs-robotarium-lab.ca/): Control, Artificial Intelligence, Navigation, Localization, Mapping, Robot Cooperation & Collaboration, Human-Robot Interaction (HRI)
 
 ### Ontario
 - Space and Terrestrial Autonomous Robotic Systems ([STARS Laboratory](https://starslab.ca/)): [GitHub](https://github.com/utiasSTARS)
@@ -77,7 +85,7 @@ The list is sorted by alphabetical order.
 <!-- - UPEI -->
 <!-- - UBC -->
 <!-- - UAlberta -->
-- [Robotarium Laboratory](https://www.uvs-robotarium-lab.ca/): Control, Artificial Intelligence, Navigation, Localization, Mapping, Robot Cooperation & Collaboration, Human-Robot Interaction (HRI)
+
 <!-- - USherbrooke -->
 <!-- - UMontreal -->
 <!-- - UQAM - ETS -->
@@ -94,11 +102,12 @@ The list is sorted by alphabetical order.
 - [ASB Lab](http://asblab.mie.utoronto.ca): Ethics and Human-Robot Interaction
 
 ### Quebec
+
 - Northern Robotics Laboratory ([Norlab](https://norlab.ulaval.ca)): Autonomous vehicles, lidars, SLAM, and control, [GitHub](https://github.com/norlab-ulaval)
   - Director: [François Pomerleau](https://scholar.google.com/citations?user=FJ9IqNoAAAAJ&hl=en)
 - [Mobile Robotics and Autonomous Systems Laboratory](https://www.polymtl.ca/robotique-mobile/en): Perception, control, real-time planning and decision-making under uncertainty
 - [RAISE Lab](https://raise.cim.mcgill.ca): Ethics and Human-Robot Interaction
-- 
+-
 
 ## Related Awesome Lists
 
