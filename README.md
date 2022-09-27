@@ -134,7 +134,11 @@ The list is sorted by alphabetical order.
 
 ### Nova Scotia
 
-<!-- - Dartmouth University -->
+- [Advanced Control and Mechatronics Laboratory](http://acm.me.dal.ca/index.htm), Dalhousie University:
+  - Robust Nonlinear Control, Teleoperation Systems, Multi-Agent Systems Cooperation, Intelligent Transportation Control,Haptics, Exoskeletons, Human Machine Interfaces, Model Predictive Control, Assistive Robotics
+  - Director: [Ya-Jun Pan](https://scholar.google.ca/citations?user=Ptjotv8AAAAJ)
+
+<!-- - Dalhouse University -->
 
 ### Prince Edward Island
 
