@@ -122,7 +122,9 @@ The list is sorted by alphabetical order.
   - Autonomous vehicles, lidars, SLAM, and control, [GitHub](https://github.com/norlab-ulaval)
   - Director: [François Pomerleau](https://scholar.google.ca/citations?user=FJ9IqNoAAAAJ&hl=en)
 - [Mobile Robotics and Autonomous Systems Laboratory](https://www.polymtl.ca/robotique-mobile/en): Perception, control, real-time planning and decision-making under uncertainty
+  - Director: [Jerome Le Ny](https://scholar.google.ca/citations?user=YCr3i00AAAAJ)
 - [RAISE Lab](https://raise.cim.mcgill.ca): Ethics and Human-Robot Interaction
+  - Director: [AJung Moon](https://scholar.google.ca/citations?user=NNnTnK8AAAAJ)
 
 ### New Brunswick
 
