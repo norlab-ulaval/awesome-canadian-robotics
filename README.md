@@ -48,7 +48,7 @@ The list is sorted by alphabetical order.
 Teams or divisions working on robotics within a larger organization.
 
 - Hydro-Québec - [Robotics team at IREQ](http://www.hydroquebec.com/robotics)
-- General Dynamics Land System Canada
+- General Dynamics Land System Canada - Innovation Cell
 - LeddarTech
 - FPInnovation
 - MDA
