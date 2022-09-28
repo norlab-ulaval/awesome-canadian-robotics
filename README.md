@@ -38,6 +38,8 @@ The list is sorted by alphabetical order.
 - Clearpath: [Official page](https://clearpathrobotics.com/), [GitHub](https://github.com/clearpathrobotics)
 - Robotiq
 - OTTO Motors
+- Cellula Robotics
+- Avidbots
 
 ### Robotics applied to Natural Resources
 
@@ -50,7 +52,7 @@ Teams or divisions working on robotics within a larger organization.
 - Hydro-Québec - [Robotics team at IREQ](http://www.hydroquebec.com/robotics)
 - General Dynamics Land System Canada - Innovation Cell
 - LeddarTech
-- FPInnovation
+- FPInnovations
 - MDA
 
 ## Laboratories
@@ -63,26 +65,26 @@ The list is sorted by alphabetical order.
 
 ### Alberta
 
-- [Robotarium Laboratory](https://www.uvs-robotarium-lab.ca/), University of Calgary: 
+- [Robotarium Laboratory](https://www.uvs-robotarium-lab.ca/), University of Calgary:
   - Control, Artificial Intelligence, Navigation, Localization, Mapping, Robot Cooperation & Collaboration, Human-Robot Interaction (HRI)
   - Director: Alex Ramirez-Serrano <!-- - no google scholar profile! seems to have low citation count -->
 <!-- - UAlberta -->
 
 ### British Columbia
 
-- [CARIS Lab](https://caris.mech.ubc.ca), University of British Columbia: 
+- [CARIS Lab](https://caris.mech.ubc.ca), University of British Columbia:
   - Ethics and Human-Robot Interaction
   - Director: [Machiel Van der Loos](https://scholar.google.ca/citations?user=ze-QdW0AAAAJ)
 - [UBC Robotics and Control Laboratory](https://rcl.ece.ubc.ca/home-page/), University of British Columbia:
   - Medical image analysis, Image guided diagnosis and interventions, Telerobotic, Robotic control of mobile machines and manipulators
   - Directors: [Purang Abolmaesumi](https://scholar.google.ca/citations?user=gKZS5-IAAAAJ), [Tim Salcudean](https://scholar.google.ca/citations?user=kpp_A9wAAAAJ), [Robert Rohling](https://scholar.google.ca/citations?user=_KwSTGIAAAAJ)
-- [AIRob Lab](https://robotics.sfu.ca/airob.html), Simon Fraser University: 
+- [AIRob Lab](https://robotics.sfu.ca/airob.html), Simon Fraser University:
   - Automated planning, Multi-Agent/Robot Systems, Spatio-Temporal and Constraint Reasoning
   - Director: [Hang Ma](https://scholar.google.ca/citations?user=KJbsVl8AAAAJ)
-- [MARS Lab](https://sfumars.com), Simon Fraser University: 
+- [MARS Lab](https://sfumars.com), Simon Fraser University:
   - Robotic safety, Reinforcement learning, Human intent inference, Visual navigation
   - Director: [Mo Chen](https://scholar.google.ca/citations?user=19UAgLUAAAAJ)
-- [ROSIE Lab](https://www.rosielab.ca), Simon Fraser University: : 
+- [ROSIE Lab](https://www.rosielab.ca), Simon Fraser University:
   - Social Intelligence, Empathy, Human-Robot Interaction
   - Director: [Angelica Lim](https://scholar.google.ca/citations?user=1jQEmPUAAAAJ)
 
@@ -95,21 +97,21 @@ The list is sorted by alphabetical order.
 
 ### Ontario
 
-- Space and Terrestrial Autonomous Robotic Systems ([STARS Laboratory](https://starslab.ca/)), University of Toronto: 
-  - TODO keywords, [GitHub](https://github.com/utiasSTARS)
-  - Director: TODO
-- [Offroad Robotics](https://offroad.engineering.queensu.ca/), Queen's University: 
+- [Offroad Robotics](https://offroad.engineering.queensu.ca/), Queen's University:
   - Field and mobile robotics, state estimation, mechatronics, and systems control, [GitHub](https://github.com/offroad-robotics)
   - Director: TODO
-- Autonomous Space Robotics Lab [ASRL](http://asrl.utias.utoronto.ca/), University of Toronto: 
-  - Mobile robots, Vision-based navigation, [GitHub](https://github.com/utiasASRL)
-  - Director: TODO
-- [Advanced Robotics and Intelligent Systems (ARIS) Laboratory](https://syang.uoguelph.ca/aris/): 
+- Advanced Robotics and Intelligent Systems Laboratory ([ARIS](https://syang.uoguelph.ca/aris/)), University of Guelph:
   - Intelligent Systems, Robotics, Control Systems, Vision and Signal Processing, Sensors, Communications
   - Director: TODO
-- [ASB Lab](http://asblab.mie.utoronto.ca), University of Toronto: 
+- Autonomous Systems and Biomechatronics Lab ([ASB Lab](http://asblab.mie.utoronto.ca)), University of Toronto:
   - Ethics and Human-Robot Interaction
   - Director: TODO
+- Autonomous Space Robotics Lab ([ASRL](http://asrl.utias.utoronto.ca/)), University of Toronto:
+  - Mobile robots, Vision-based navigation, [GitHub](https://github.com/utiasASRL)
+  - Director: TODO
+- Space and Terrestrial Autonomous Robotic Systems ([STARS Laboratory](https://starslab.ca/)), University of Toronto:
+  - TODO keywords, [GitHub](https://github.com/utiasSTARS)
+  - Director: [Jonathan Kelly](https://scholar.google.ca/citations?user=KtSR8_0AAAAJ)
 
 <!-- UOttawa -->
 <!-- York University -->
@@ -129,22 +131,22 @@ The list is sorted by alphabetical order.
 <!-- UQAM - ETS -->
 <!-- McGill -->
 <!-- INRS -->
-- [Laboratoire de robotique](https://robot.gmc.ulaval.ca/en/home), Université Laval: 
+- [Laboratoire de robotique](https://robot.gmc.ulaval.ca/en/home), Université Laval:
   - Parallel mechanisms, Articulated robotic hands, Cable-driven parallel mechanisms, Physical human-robot interaction, Haptic devices, Assistive devices
   - Director: [Clément Gosselin](https://scholar.google.ca/citations?user=O9VSIMoAAAAJ)
 - Northern Robotics Laboratory ([Norlab](https://norlab.ulaval.ca)), Université Laval:
   - Autonomous vehicles, lidars, SLAM, and control, [GitHub](https://github.com/norlab-ulaval)
   - Director: [François Pomerleau](https://scholar.google.ca/citations?user=FJ9IqNoAAAAJ&hl=en)
-- [Mobile Robotics and Autonomous Systems Laboratory](https://www.polymtl.ca/robotique-mobile/en), Polytechnique Montréal: 
+- [Mobile Robotics and Autonomous Systems Laboratory](https://www.polymtl.ca/robotique-mobile/en), Polytechnique Montréal:
   - Perception, control, real-time planning and decision-making under uncertainty
   - Director: [Jerome Le Ny](https://scholar.google.ca/citations?user=YCr3i00AAAAJ)
-- [RAISE Lab](https://raise.cim.mcgill.ca), McGill: 
+- [RAISE Lab](https://raise.cim.mcgill.ca), McGill:
   - Ethics and Human-Robot Interaction
   - Director: [AJung Moon](https://scholar.google.ca/citations?user=NNnTnK8AAAAJ)
 
 ### New Brunswick
 
-- [Robotics and Mechanisms Laboratory](https://www2.unb.ca/ram/links/links.html): 
+- [Robotics and Mechanisms Laboratory](https://www2.unb.ca/ram/links/links.html), University of New Brunswick:
   - Parallel manipulators, Simulation of robotic systems
   - Director: [Juan A. Carretero](https://scholar.google.ca/citations?user=dGVqmGAAAAAJ)
 <!-- - UNB Robotics -->
