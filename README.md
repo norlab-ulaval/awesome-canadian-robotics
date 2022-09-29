@@ -120,9 +120,9 @@ The list is sorted by alphabetical order.
 - Autonomous Systems and Biomechatronics Lab ([ASB Lab](http://asblab.mie.utoronto.ca)), University of Toronto:
   - Ethics and Human-Robot Interaction
   - Director: TODO
-- Autonomous Space Robotics Lab ([ASRL](http://asrl.utias.utoronto.ca/)), University of Toronto:
+- Autonomous Space Robotics Lab ([ASRL](http://asrl.utias.utoronto.ca)), University of Toronto:
   - Mobile robots, Vision-based navigation, [GitHub](https://github.com/utiasASRL)
-  - Director: TODO
+  - Director: [Timothy D Barfoot](https://scholar.google.ca/citations?user=N_vPIhoAAAAJ)
 - Space and Terrestrial Autonomous Robotic Systems ([STARS Laboratory](https://starslab.ca/)), University of Toronto:
   - TODO keywords, [GitHub](https://github.com/utiasSTARS)
   - Director: [Jonathan Kelly](https://scholar.google.ca/citations?user=KtSR8_0AAAAJ)
