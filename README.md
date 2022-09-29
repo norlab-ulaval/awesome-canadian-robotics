@@ -23,7 +23,7 @@ You need at least 15 stars on your repository to be listed here.
 The list is sorted by number of stars.
 
 - [![GitHub Repo stars](https://img.shields.io/github/stars/ethz-asl/libpointmatcher?style=social)](https://github.com/ethz-asl/libpointmatcher/stargazers) [libpointmatcher](https://github.com/ethz-asl/libpointmatcher): An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics. [Norlab](https://norlab.ulaval.ca) is maintaining and using the library for their research on autonomous navigation in harsh environments.
-- TODO
+- [![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/vtr3?style=social)](https://github.com/utiasASRL/vtr3/stargazers) [VT&R3](https://github.com/utiasASRL/vtr3): VT&R3 is a C++ implementation of the Teach and Repeat navigation framework. It enables a robot to be taught a network of traversable paths and then closely repeat any part of the network.  [utiasASRL](https://utiasasrl.github.io/) is maintaining and using the package for their research on vision-based localization algorithms in outdoor environments.
 -
 
 ## Companies
