@@ -48,7 +48,8 @@ The list is sorted by alphabetical order.
 
 ### Robotics applied to Natural Resources
 
-- [MacLean Engineering](https://macleanengineering.com)
+- MacLean Engineering: [Official page](https://macleanengineering.com)
+- Rigid Robotics: [Official page](https://rigidrobotics.com/)
 
 ## Organisations and Divisions
 
