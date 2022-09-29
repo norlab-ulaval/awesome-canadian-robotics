@@ -146,12 +146,21 @@ The list is sorted by alphabetical order.
 - [Mobile Robotics and Autonomous Systems Laboratory](https://www.polymtl.ca/robotique-mobile/en), Polytechnique Montréal:
   - Perception, control, real-time planning and decision-making under uncertainty
   - Director: [Jerome Le Ny](https://scholar.google.ca/citations?user=YCr3i00AAAAJ)
+- [Mobile Robotics Lab (MRL)](https://www.cim.mcgill.ca/~mrl/), McGill
+  - Perception, planning, underwater robotics
+  - Directors: Gregory Dudek, David Meger
+- [INIT Robots](https://initrobots.etsmtl.ca/), ETS Montréal
+  - Human-robot interaction, teleoperation
+  - Director: David St-Onge
 - [RAISE Lab](https://raise.cim.mcgill.ca), McGill:
   - Ethics and Human-Robot Interaction
   - Director: [AJung Moon](https://scholar.google.ca/citations?user=NNnTnK8AAAAJ)
 - [REAL Lab](https://montrealrobotics.ca/), Université de Montréal:
   - Robotics and Embodied AI
   - Director: [Liam Paull](https://montrealrobotics.ca/)
+- [Control and Robotics Laboratory (CoRo)](https://en.etsmtl.ca/unites-de-recherche/coro/accueil?lang=en-CA), École de technologie supérieure (ÉTS):
+  - Precision robotics, parallel robotics, mechatronics and haptics, control
+  - Director: [Ilian Bonev](https://en.etsmtl.ca/Bottin/ETS/Alphabetique/FicheEmploye?Numero=2363)
 
 ### New Brunswick
 
