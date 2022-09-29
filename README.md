@@ -13,7 +13,7 @@ We added abitrary criterias to be listed here with the intention to be transpare
 - [Datasets](#datasets)
 - [Companies](#companies)
   - [Robot manufacturers](#robot-manufacturers)
-  - [Robotics applied to Natural Resources](#robotics-applied-to-natural-resources)
+  - [Natural Resources](#natural-resources)
 - [Organisations and Divisions](#organisations-and-divisions)
 - [Laboratories](#laboratories)
 - [Related Awesome Lists](#related-awesome-lists)
@@ -30,7 +30,8 @@ The list is sorted by number of stars.
 - [![GitHub Repo stars](https://img.shields.io/github/stars/SherbyRobotics/pyro?style=social)](https://github.com/SherbyRobotics/pyro/stargazers) [pyro](https://github.com/SherbyRobotics/pyro): An object-based toolbox for robot dynamic simulation, analysis, control and planning. [Createk](https://www.createk.co/) and Prof. Alexandre Girard is maintaining this library for their research on robot design, control and planning.
 - [![GitHub Repo stars](https://img.shields.io/github/stars/SFU-MARS/optimized_dp?style=social)](https://github.com/SFU-MARS/optimized_dp/stargazers) [optimized_dp](https://github.com/SFU-MARS/optimized_dp):  Optimizing Dynamic Programming-Based Algorithms Resources. [SFU-MARS](https://sfumars.com/research/) is maintaining this library for their research on principled robot decision making ombining traditional analytical methods in robotics and modern data-driven techniques.
 
-## Datasets 
+## Datasets
+
 - [The Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/): The CADC dataset, collected during winter within the Region of Waterloo, Canada, aims to promote research to improve self-driving in adverse weather contditions.
 - [The Boreas Dataset](https://www.boreas.utias.utoronto.ca/#/): The Boreas dataset was collected by driving a repeated route over the course of 1 year resulting in stark seasonal variations. In total, Boreas contains over 350km of driving data including several sequences with adverse weather conditions such as rain and heavy snow.
 - [The Montmorency dataset](https://norlab.ulaval.ca/research/montmorencydataset/): The dataset contains the ground truth species, diameter at breast height (DBH) and position of more than 1000 trees across four forests, as well as 11 trajectories of a lidar-equipped robot going through these forests.
@@ -52,7 +53,7 @@ The list is sorted by alphabetical order.
 - OTTO Motors
 - Robotiq
 
-### Robotics applied to Natural Resources
+### Natural Resources
 
 - MacLean Engineering: [Official page](https://macleanengineering.com)
 - Rigid Robotics: [Official page](https://rigidrobotics.com/)
