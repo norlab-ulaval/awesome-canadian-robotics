@@ -26,9 +26,7 @@ The list is sorted by number of stars.
 - [![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/wiln?style=social)](https://github.com/norlab-ulaval/wiln/stargazers) [Weather Invariant Lidar-based Navigation (WILN)](https://github.com/norlab-ulaval/wiln): A lidar-based Teach-and-Repeat framework designed to enable outdoor autonomous navigation in harsh weather. [Norlab](https://norlab.ulaval.ca) is maintaining and using the framework to deploy mobile robots in harsh weather, recently featured in [Kilometer-scale autonomous navigation in subarctic forests: challenges and lessons learned](https://norlab.ulaval.ca/publications/field-report-ltr/).
 - [![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/vtr3?style=social)](https://github.com/utiasASRL/vtr3/stargazers) [VT&R3](https://github.com/utiasASRL/vtr3): VT&R3 is a C++ implementation of the Teach and Repeat navigation framework. It enables a robot to be taught a network of traversable paths and then closely repeat any part of the network.  [utiasASRL](https://utiasasrl.github.io/) is maintaining and using the package for their research on vision-based localization algorithms in outdoor environments.
 - [![GitHub Repo stars](https://img.shields.io/github/stars/nickcharron/lidar_snow_removal?style=social)](https://github.com/nickcharron/lidar_snow_removal/stargazers) [lidar_snow_removal](https://github.com/nickcharron/lidar_snow_removal): This repo is a set of nodes for ROS to filter point clouds with the goal of removing snow in Lidar data. [TrailLAb](https://www.trailab.utias.utoronto.ca/) was maintaining this package for their publications on the [Canadian Adverse Weather Dataset](http://cadcd.uwaterloo.ca/).
-- [![GitHub Repo stars](https://img.shields.io/github/stars/SherbyRobotics/pyro?style=social)](https://github.com/SherbyRobotics/pyro/stargazers) [pyro](https://github.com/SherbyRobotics/pyro): An object-based toolbox for robot dynamic simulation, analysis, control and planning. [Createk](https://www.createk.co/) and Prof. Alexandre Girard is maintaining this library for their research on robot design, control and planning.
-- [![GitHub Repo stars](https://img.shields.io/github/stars/SFU-MARS/optimized_dp?style=social)](https://github.com/SFU-MARS/optimized_dp/stargazers) [optimized_dp](https://github.com/SFU-MARS/optimized_dp):  Optimizing Dynamic Programming-Based Algorithms Resources. [SFU-MARS](https://sfumars.com/research/) is maintaining this library for their research on principled robot decision making ombining traditional analytical methods in robotics and modern data-driven techniques.
-
+- 
 
 ## Companies
 
@@ -144,15 +142,12 @@ The list is sorted by alphabetical order.
 - [Mobile Robotics and Autonomous Systems Laboratory](https://www.polymtl.ca/robotique-mobile/en), Polytechnique Montréal:
   - Perception, control, real-time planning and decision-making under uncertainty
   - Director: [Jerome Le Ny](https://scholar.google.ca/citations?user=YCr3i00AAAAJ)
-- [Mobile Robotics Lab (MRL)](https://www.cim.mcgill.ca/~mrl/), McGill
-  - Perception, planning, underwater robotics
-  - Directors: Gregory Dudek, David Meger
-- [INIT Robots](https://initrobots.etsmtl.ca/), ETS Montréal
-  - Human-robot interaction, teleoperation
-  - Director: David St-Onge
 - [RAISE Lab](https://raise.cim.mcgill.ca), McGill:
   - Ethics and Human-Robot Interaction
   - Director: [AJung Moon](https://scholar.google.ca/citations?user=NNnTnK8AAAAJ)
+- [Robotics and Embodied AI Lab (REAL)](https://montrealrobotics.ca/), Université de Montréal and affiliated to MILA:
+  - Generalist robots and other embodied agents
+  - Directors: [Liam Paull](https://montrealrobotics.ca/people.html) and [Glen Berseth](https://montrealrobotics.ca/people.html)
 
 ### New Brunswick
 
