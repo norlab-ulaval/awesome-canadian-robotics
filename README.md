@@ -148,6 +148,9 @@ The list is sorted by alphabetical order.
 - [Robotics and Embodied AI Lab (REAL)](https://montrealrobotics.ca/), Université de Montréal and affiliated to MILA:
   - Generalist robots and other embodied agents
   - Directors: [Liam Paull](https://montrealrobotics.ca/people.html) and [Glen Berseth](https://montrealrobotics.ca/people.html)
+- [Control and Robotics Laboratory (CoRo)](https://en.etsmtl.ca/unites-de-recherche/coro/accueil?lang=en-CA), École de technologie supérieure (ÉTS):
+  - Precision robotics, parallel robotics, mechatronics and haptics, control
+  - Director: [Ilian Bonev](https://en.etsmtl.ca/Bottin/ETS/Alphabetique/FicheEmploye?Numero=2363)
 
 ### New Brunswick
 
