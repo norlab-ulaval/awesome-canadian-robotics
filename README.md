@@ -34,6 +34,7 @@ The list is sorted by number of stars.
 
 - [The Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/): The CADC dataset, collected during winter within the Region of Waterloo, Canada, aims to promote research to improve self-driving in adverse weather contditions.
 - [The Boreas Dataset](https://www.boreas.utias.utoronto.ca/#/): The Boreas dataset was collected by driving a repeated route over the course of 1 year resulting in stark seasonal variations. In total, Boreas contains over 350km of driving data including several sequences with adverse weather conditions such as rain and heavy snow.
+  - [![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/pyboreas?style=social)](https://github.com/utiasASRL/pyboreas/stargazers) [pyboreas](https://github.com/utiasASRL/pyboreas): Devkit for the Boreas autonomous driving dataset
 - [The Montmorency dataset](https://norlab.ulaval.ca/research/montmorencydataset/): The dataset contains the ground truth species, diameter at breast height (DBH) and position of more than 1000 trees across four forests, as well as 11 trajectories of a lidar-equipped robot going through these forests.
 - [The Montmorency Forest Wintertime Dataset](https://github.com/norlab-ulaval/Norlab_wiki/wiki/Montmorency-Forest-Wintertime-Dataset): The dataset was collected in the Montmorency subarctic forest and presents fluctuating weather, including light and heavy snow, rain, and drizzle. It contains 18.8km of autonomous navigation in a teach-and-repeat mode.
 
