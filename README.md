@@ -38,12 +38,13 @@ Companies with their primary mission focusing on robotics.
 You need at least 10 employees to be listed here.
 The list is sorted by alphabetical order.
 
-- Kinova: [Official page](https://www.kinovarobotics.com/), [GitHub](https://github.com/Kinovarobotics)
-- Clearpath: [Official page](https://clearpathrobotics.com/), [GitHub](https://github.com/clearpathrobotics)
-- Robotiq
-- OTTO Motors
-- Cellula Robotics
 - Avidbots
+- Bluewrist: [Official page](https://bluewrist.com/)
+- Cellula Robotics
+- Clearpath: [Official page](https://clearpathrobotics.com/), [GitHub](https://github.com/clearpathrobotics)
+- Kinova: [Official page](https://www.kinovarobotics.com/), [GitHub](https://github.com/Kinovarobotics)
+- OTTO Motors
+- Robotiq
 
 ### Robotics applied to Natural Resources
 
