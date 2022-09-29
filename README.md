@@ -10,6 +10,7 @@ We added abitrary criterias to be listed here with the intention to be transpare
 ## Contents
 
 - [Open-Source Software](#open-source-software)
+- [Datasets](#datasets)
 - [Companies](#companies)
   - [Robot manufacturers](#robot-manufacturers)
   - [Robotics applied to Natural Resources](#robotics-applied-to-natural-resources)
