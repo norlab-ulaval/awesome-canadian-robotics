@@ -51,7 +51,6 @@ The list is sorted by alphabetical order.
 - Cellula Robotics
 - Clearpath: [Official page](https://clearpathrobotics.com/), [GitHub](https://github.com/clearpathrobotics)
 - Kinova: [Official page](https://www.kinovarobotics.com/), [GitHub](https://github.com/Kinovarobotics)
-- OTTO Motors
 - Robotiq
 
 ### Natural Resources
@@ -68,6 +67,11 @@ Teams or divisions working on robotics within a larger organization.
 - LeddarTech
 - FPInnovations
 - MDA
+
+## Warehouse robotics
+
+- [OTTO Motors](https://ottomotors.com/)
+- [Think Logistics](https://www.thinklogistics.com/what-we-do/)
 
 ## Laboratories
 
