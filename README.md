@@ -132,6 +132,16 @@ The list is sorted by alphabetical order.
 - Space and Terrestrial Autonomous Robotic Systems ([STARS Laboratory](https://starslab.ca/)), University of Toronto:
   - TODO keywords, [GitHub](https://github.com/utiasSTARS)
   - Director: [Jonathan Kelly](https://scholar.google.ca/citations?user=KtSR8_0AAAAJ)
+- Toronto Robotics and AI Laboratory ([TRAILab](https://www.trailab.utias.utoronto.ca/)), University of Toronto:
+  - 3D Object Detection, Drone Landing, Robotic Manipulation, Robotics perception, Planning problems, [GitHub](https://github.com/TRAILab)
+  - Previously the WAVE Lab in University of Waterloo ([GitHub](https://github.com/wavelab))
+  - Director: [Steven Waslander](https://scholar.google.com/citations?user=jY_Bcd8AAAAJ)
+- Autonomous Systems Laboratory ([ASL](https://uwaterloo.ca/autonomous-systems-lab)), University of Waterloo:
+  - Robot Motion Planning, Future Transportation Systems, Autonomous Driving
+  - Director: [Stephen L. Smith](https://scholar.google.com/citations?user=_gfwCNwAAAAJ)
+- Autonomous Vehicle Research and Intelligence Lab ([AVRIL](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab)), University of Waterloo:
+  - Passenger Vehicles,  Automated driving,  Connected (V2X) Vehicles,  ADAS,  Driverless shuttles, Commercial trucks, Warehouse and industrial robots, Field platform vehicles
+  - Directors: [Amir Khajepour](https://scholar.google.ca/citations?user=TL84ll0AAAAJ), [John McPhee](https://scholar.google.com/citations?user=boJMp7AAAAAJ)
 
 <!-- UOttawa -->
 <!-- York University -->
