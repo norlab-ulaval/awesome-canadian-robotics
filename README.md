@@ -177,6 +177,15 @@ The list is sorted by alphabetical order.
 - [REAL Lab](https://montrealrobotics.ca/), Université de Montréal:
   - Robotics and Embodied AI
   - Director: [Liam Paull](https://montrealrobotics.ca/)
+- Institut interdisciplinaire d'innovation technologique ([3IT](https://www.usherbrooke.ca/3it)), Université de Sherbrooke:
+  - Applications of robotics in society, Drones
+  - Research groups:
+    - [Collaborative Robotics Technologies in Manufacturing (CoRoM)](https://corom.ca): NSERC-CREATE program with ETS and Université Laval
+    - [Createk](https://www.createk.co) : mechanical engineering research group
+  - Director: [Richard Arès](https://scholar.google.ca/citations?user=6IorTL0AAAAJ)
+- Intelligent / Interactive / Integrated / Interdisciplinary Robot Lab ([IntRoLab](https://introlab.3it.usherbrooke.ca)), Université de Sherbrooke:
+  - Service Robots, All-Terrain Robots, Interactive Robots, Assistive Robotics, Tele-Health Robotics, Automobile, Surgical Robots
+  - Director: [Francois Michaud](https://scholar.google.com/citations?user=CHlw77gAAAAJ)
 
 ### New Brunswick
 
