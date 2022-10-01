@@ -142,6 +142,13 @@ The list is sorted by alphabetical order.
 - Autonomous Vehicle Research and Intelligence Lab ([AVRIL](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab)), University of Waterloo:
   - Passenger Vehicles,  Automated driving,  Connected (V2X) Vehicles,  ADAS,  Driverless shuttles, Commercial trucks, Warehouse and industrial robots, Field platform vehicles
   - Directors: [Amir Khajepour](https://scholar.google.ca/citations?user=TL84ll0AAAAJ), [John McPhee](https://scholar.google.com/citations?user=boJMp7AAAAAJ)
+- Waterloo Centre for Automotive Research ([WATCAR](https://uwaterloo.ca/centre-automotive-research)), University of Waterloo:
+  - Autonomous driving, advanced powertrains, [Autonomoose](https://www.autonomoose.net/) autonomous car
+  - Director: Sebastian Fischmeister <!-- - no google scholar profile, but enough citations on semantic scholar -->
+- Waterloo Intelligent Systems Engineering Lab ([WISE Lab](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab)), University of Waterloo
+  - Autonomous Driving, Human Driving Behaviour Modeling, Safety And Quality Requirements, Machine Learning, Reinforcement Learning, Deep Learning, Simulation, [GitLab](https://git.uwaterloo.ca/wise-lab)
+  - Director: [Krzysztof Czarnecki](https://scholar.google.ca/citations?user=ZzCpumQAAAAJ)
+
 
 <!-- UOttawa -->
 <!-- York University -->
