@@ -52,7 +52,7 @@ The list is sorted by number of stars.
 
 ## Companies
 
-## Startup
+### Startup
 
 - Foxtrot Industriel [Official page](https://foxtrotindustriel.com)
 
