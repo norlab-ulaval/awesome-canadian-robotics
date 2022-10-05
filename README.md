@@ -52,6 +52,10 @@ The list is sorted by number of stars.
 
 ## Companies
 
+## Startup
+
+- Foxtrot Industriel [Official page](https://foxtrotindustriel.com)
+
 ### Robot manufacturers
 
 Companies with their primary mission focusing on robotics.
@@ -67,6 +71,7 @@ The list is sorted by alphabetical order.
 - IndroRobotics (mobile): [Official page](https://indrorobotics.ca)
 - Rheinmetall: [Official page](https://www.rheinmetall.ca/en/rheinmetall_canada/systemsandproducts/electronicsystems/unmanned_vehicles/index.php)
 - Robotiq (manipulator): [Official page](https://robotiq.com)
+- Sir Steward [Official page](https://sirsteward.com)
 
 ### Natural Resources
 
