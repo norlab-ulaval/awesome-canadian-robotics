@@ -83,7 +83,7 @@ The list is sorted by alphabetical order.
 
 ### Aerospace
 
-- MDA Ltd. : [Website](https://mda.space)
+- MDA Ltd.: [Website](https://mda.space)
 - NGC Aerospace  Ltd.: [Website](https://www.ngcaerospace.com)
 
 ### Natural Resources
@@ -289,9 +289,25 @@ The list is sorted by alphabetical order.
 <!-- - Dalhouse University -->
 
 
-<!-- ### Newfoundland -->
+### Newfoundland
+
+- [Autonomous Ocean Systems Laboratory](https://aosl.ca/), Memorial University:
+  - Marine robotics, Autonomous Underwater Vehicles (AUVs), Unmanned Surface Craft (USC)
+  - Director: [Ralf Bachmayer](https://scholar.google.ca/citations?user=r-O7810AAAAJ)
+- [Bio-inspired Robotics (BOTS)](https://www.mun.ca/engineering/research/centres-and-facilities/research-laboratories/electrical-and-computer-engineering/bio-inspired-robotics-bots), Memorial University:
+  - Swarm Robotics
+  - Director: [Andrew Vardy](https://scholar.google.ca/citations?user=ccxPX38AAAAJ), [Todd Wareham](https://scholar.google.ca/citations?user=1cFXu-QAAAAJ), [David Churchill](https://scholar.google.com/citations?user=teRseTgAAAAJ)
+- [Intelligent Systems Laboratory](https://www.mun.ca/engineering/research/centres-and-facilities/research-laboratories/mechanical-engineering/intelligent-systems-laboratory), Memorial University:
+  - Sensor design, State estimation, Pack ice field detection and tracking, Nonlinear model predictive control of mobile robots, Cooperative localization of distributed multi-robotic systems, Visual-inertial navigation, Robot perception using visual attention
+  - Directors: [George K. Mann](https://scholar.google.ca/citations?user=CyavUNwAAAAJ), [Ray Gosine](https://scholar.google.ca/citations?user=57WxPZMAAAAJ), [Andrew Vardy](https://scholar.google.ca/citations?user=ccxPX38AAAAJ)
+- [Vision, Software and Robotics Lab (VISOR)](https://www.mun.ca/engineering/research/centres-and-facilities/research-laboratories/electrical-and-computer-engineering/vision-software-and-robotics-visor-laboratory), Memorial University:
 
 <!-- Memorial University -->
+<!-- UP COMING PROFESSORS:
+- [Robotics, Mechanical and Control Laboratory (RoMeCoLa)](https://www.mun.ca/engineering/research/centres-and-facilities/research-laboratories/mechanical-engineering/robotics-mechanical-and-control-laboratory), Memorial University:
+  - Mechanisms design, Control of Mechanica Robotic Systems
+  - Director: [Ting Zou](https://scholar.google.ca/citations?user=74DtJu4AAAAJ)
+-->
 
 ## Related Awesome Lists
 
