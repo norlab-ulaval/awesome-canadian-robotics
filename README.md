@@ -63,7 +63,8 @@ The list is sorted by alphabetical order.
 - Cellula Robotics
 - Clearpath: [Official page](https://clearpathrobotics.com/), [GitHub](https://github.com/clearpathrobotics)
 - Kinova: [Official page](https://www.kinovarobotics.com/), [GitHub](https://github.com/Kinovarobotics)
-- Robotiq
+- Robotiq: [Official page](https://robotiq.com)
+- IndroRobotics: [Official page](https://indrorobotics.ca)
 
 ### Natural Resources
 
