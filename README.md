@@ -65,6 +65,7 @@ The list is sorted by alphabetical order.
 - Clearpath: [Official page](https://clearpathrobotics.com/), [GitHub](https://github.com/clearpathrobotics)
 - Kinova (manipulator): [Official page](https://www.kinovarobotics.com/), [GitHub](https://github.com/Kinovarobotics)
 - IndroRobotics (mobile): [Official page](https://indrorobotics.ca)
+- Rheinmetall: [Official page](https://www.rheinmetall.ca/en/rheinmetall_canada/systemsandproducts/electronicsystems/unmanned_vehicles/index.php)
 - Robotiq (manipulator): [Official page](https://robotiq.com)
 
 ### Natural Resources
