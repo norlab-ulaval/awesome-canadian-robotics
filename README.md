@@ -149,6 +149,9 @@ The list is sorted by alphabetical order.
 - [Offroad Robotics](https://offroad.engineering.queensu.ca/), Queen's University:
   - Field and mobile robotics, state estimation, mechatronics, and systems control, [GitHub](https://github.com/offroad-robotics)
   - Director: [Josh Marshall](https://scholar.google.ca/citations?user=2zOIvcUAAAAJ)
+- [People, AI, & Robots lab (PAIR)](https://www.pair.toronto.edu/):
+  - Robotic Manipulation, Robot Learning, Reinforcement Learning, Machine Learning, Computer Vision
+  - Director: [Animesh Garg](https://scholar.google.com/citations?hl=en&user=zp8V7ZMAAAAJ)
 - [Space and Terrestrial Autonomous Robotic Systems (STARS Laboratory)](https://starslab.ca/), University of Toronto:
   - Collaborative Robotics, Mobile Manipulation, Multimodal Sensing, Computer Vision, Machine Learning, [GitHub](https://github.com/utiasSTARS)
   - Director: [Jonathan Kelly](https://scholar.google.ca/citations?user=KtSR8_0AAAAJ)
