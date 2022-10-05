@@ -81,6 +81,7 @@ Teams or divisions working on robotics within a larger organization.
 - LeddarTech
 - FPInnovations
 - MDA
+- IVI: [Official page](https://www.ivisolutions.ca)
 
 ## Warehouse Robotics
 
