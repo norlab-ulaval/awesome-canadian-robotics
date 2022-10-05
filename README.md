@@ -38,6 +38,8 @@ The list is sorted by number of stars.
   - An object-based toolbox for robot dynamic simulation, analysis, control and planning. [Createk](https://www.createk.co/) and Prof. Alexandre Girard is maintaining this library for their research on robot design, control and planning.
 - [![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/wiln?style=social)](https://github.com/norlab-ulaval/wiln/stargazers) [Weather Invariant Lidar-based Navigation (WILN)](https://github.com/norlab-ulaval/wiln): 
   - A lidar-based Teach-and-Repeat framework designed to enable outdoor autonomous navigation in harsh weather. [Norlab](https://norlab.ulaval.ca) is maintaining and using the framework to deploy mobile robots in harsh weather, recently featured in [Kilometer-scale autonomous navigation in subarctic forests: challenges and lessons learned](https://norlab.ulaval.ca/publications/field-report-ltr/).
+- [![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/PercepTreeV1?style=social)]([[https://github.com/norlab-ulaval/PercepTreeV1/stargazers](https://github.com/norlab-ulaval/PercepTreeV1)](https://github.com/norlab-ulaval/PercepTreeV1)) [Tree detection based on deep learning](https://github.com/norlab-ulaval/PercepTreeV1 (PercepTree)): 
+  - An image-based solution to detect trees in outdoor environments. [Norlab](https://norlab.ulaval.ca) is maintaining and using the framework to develop autonomous precision forestry applications.
 
 ## Datasets
 
@@ -49,7 +51,9 @@ The list is sorted by number of stars.
 - [Precise Synthetic Image and LiDAR Dataset for Autonomous Vehicle Perception (presil)](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/projects/precise-synthetic-image-and-lidar-presil-dataset-autonomous): The dataset contains over 50,000 instances and includes high-definition images with full resolution depth information, semantic segmentation (images), point-wise segmentation (point clouds), ground point labels (point clouds), and detailed annotations for vehicles and people in Grand Theft Auto V (GTA V), a commercial video game.
   - [![GitHub Repo stars](https://img.shields.io/github/stars/bradenhurl/DeepGTAV-PreSIL?style=social)](https://github.com/bradenhurl/DeepGTAV-PreSIL/stargazers) [DeepGTAV-PreSIL](https://github.com/bradenhurl/DeepGTAV-PreSIL): Data generation code used to mine data from GTAV
   - [![GitHub Repo stars](https://img.shields.io/github/stars/bradenhurl/PreSIL-tools?style=social)](https://github.com/bradenhurl/PreSIL-tools/stargazers) [PreSIL-tools](https://github.com/bradenhurl/PreSIL-tools): Scripts for generating ground planes, splits, and visualizations from the data
-
+- [![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/PercepTreeV1?style=social)]([[https://github.com/norlab-ulaval/PercepTreeV1/stargazers](https://github.com/norlab-ulaval/PercepTreeV1)](https://github.com/norlab-ulaval/PercepTreeV1)) [Forest image datasets](https://github.com/norlab-ulaval/PercepTreeV1 (PercepTree)): 
+  - This repository contains two datasets: a 43,000 synthetic forest images and a 100 real image dataset. Both include high-definition RGB images with depth information, bounding box, instance segmentation masks and keypoints annotation.
+ 
 ## Companies
 
 ### Startup
@@ -103,6 +107,12 @@ The list is sorted by alphabetical order.
 <!-- - CNRC -->
 
 ### Alberta
+- [Artificial Intelligence and Robotics in Construction (AIRCon-Lab)](https://profsckang.wixsite.com/uofa-rlab), University of Alberta:
+  - Sensors, Actuators and Artificial Intelligence in Construction Sites.
+  - Director: [Shih-Chung Jessy Kang](https://scholar.google.com/citations?user=ezCU4-cAAAAJ&hl=en)
+- [Intelligent Automation Research Laboratory (iAR)](https://www.ucalgary.ca/aerospace/robotics), University of Calgary:
+  - Industrial automation with mechatronic systems, vibration, control, optimization, and artificial intelligence.
+  - Director: [Jihyun Lee](https://scholar.google.ca/citations?user=nDMhFS8AAAAJ&hl=en)
 - [Intelligent Robot Learning Laboratory](https://irll.ca/team/), University of Alberta:
   - Fundamental reinforcement learning research, Application of artificial intelligence to real-world settings
   - Director: [Matthew E. Taylor](https://scholar.google.ca/citations?user=edQgLXcAAAAJ&hl=en&oi=ao)
@@ -122,6 +132,9 @@ The list is sorted by alphabetical order.
 - [Multi-Agent Robotic Systems Lab (MARS)](https://sfumars.com), Simon Fraser University:
   - Robotic safety, Reinforcement learning, Human intent inference, Visual navigation
   - Director: [Mo Chen](https://scholar.google.ca/citations?user=19UAgLUAAAAJ)
+- [UBC Computer Vision Lab](https://vision.cs.ubc.ca/), University of British Columbia:
+  - Image understanding, video understanding, human pose estimation, and understanding of sports videos using machine learning and deep learning      techniques.
+  - Director: [James J. Little](https://scholar.google.com/citations?user=a0za4V8AAAAJ)
 - [UBC Robotics and Control Laboratory](https://rcl.ece.ubc.ca/home-page/), University of British Columbia:
   - Medical image analysis, Image guided diagnosis and interventions, Telerobotic, Robotic control of mobile machines and manipulators
   - Directors: [Purang Abolmaesumi](https://scholar.google.ca/citations?user=gKZS5-IAAAAJ), [Tim Salcudean](https://scholar.google.ca/citations?user=kpp_A9wAAAAJ), [Robert Rohling](https://scholar.google.ca/citations?user=_KwSTGIAAAAJ)
