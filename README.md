@@ -24,23 +24,23 @@ We added abitrary criterias to be listed here with the intention to be transpare
 You need at least 15 stars on your repository to be listed here.
 The list is sorted by number of stars.
 
-- [![GitHub Repo stars](https://img.shields.io/github/stars/ethz-asl/libpointmatcher?style=social)](https://github.com/ethz-asl/libpointmatcher/stargazers) [libpointmatcher](https://github.com/ethz-asl/libpointmatcher): 
+- [![GitHub Repo stars](https://img.shields.io/github/stars/ethz-asl/libpointmatcher?style=social)](https://github.com/ethz-asl/libpointmatcher/stargazers) [libpointmatcher](https://github.com/ethz-asl/libpointmatcher):
   - An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics. [Norlab](https://norlab.ulaval.ca) is maintaining and using the library for their research on autonomous navigation in harsh environments.
-- [![GitHub Repo stars](https://img.shields.io/github/stars/nickcharron/lidar_snow_removal?style=social)](https://github.com/nickcharron/lidar_snow_removal/stargazers) [lidar_snow_removal](https://github.com/nickcharron/lidar_snow_removal): 
+- [![GitHub Repo stars](https://img.shields.io/github/stars/nickcharron/lidar_snow_removal?style=social)](https://github.com/nickcharron/lidar_snow_removal/stargazers) [lidar_snow_removal](https://github.com/nickcharron/lidar_snow_removal):
   - This repo is a set of nodes for ROS to filter point clouds with the goal of removing snow in Lidar data. [TrailLAb](https://www.trailab.utias.utoronto.ca/) was maintaining this package for their publications on the [Canadian Adverse Weather Dataset](http://cadcd.uwaterloo.ca/).
-- [![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/vtr3?style=social)](https://github.com/utiasASRL/vtr3/stargazers) [VT&R3](https://github.com/utiasASRL/vtr3): 
+- [![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/vtr3?style=social)](https://github.com/utiasASRL/vtr3/stargazers) [VT&R3](https://github.com/utiasASRL/vtr3):
   - VT&R3 is a C++ implementation of the Teach and Repeat navigation framework. It enables a robot to be taught a network of traversable paths and then closely repeat any part of the network.  [utiasASRL](https://utiasasrl.github.io/) is maintaining and using the package for their research on vision-based localization algorithms in outdoor environments.
-- [![GitHub Repo stars](https://img.shields.io/github/stars/SFU-MARS/optimized_dp?style=social)](https://github.com/SFU-MARS/optimized_dp/stargazers) [optimized_dp](https://github.com/SFU-MARS/optimized_dp):  
+- [![GitHub Repo stars](https://img.shields.io/github/stars/SFU-MARS/optimized_dp?style=social)](https://github.com/SFU-MARS/optimized_dp/stargazers) [optimized_dp](https://github.com/SFU-MARS/optimized_dp):
   - Optimizing Dynamic Programming-Based Algorithms Resources. [SFU-MARS](https://sfumars.com/research/) is maintaining this library for their research on principled robot decision making ombining traditional analytical methods in robotics and modern data-driven techniques.
-- [![GitHub Repo stars](https://img.shields.io/github/stars/MRASL/mrasl_mav_traj?style=social)](https://github.com/MRASL/mrasl_mav_traj/stargazers) [mrasl_mav_traj](https://github.com/MRASL/mrasl_mav_traj): 
+- [![GitHub Repo stars](https://img.shields.io/github/stars/MRASL/mrasl_mav_traj?style=social)](https://github.com/MRASL/mrasl_mav_traj/stargazers) [mrasl_mav_traj](https://github.com/MRASL/mrasl_mav_traj):
   - Trajectory utilities for Micro UAVs (MAVs). Maintained by [MRASL](http://www.polymtl.ca/robotique-mobile/en).
 - [![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/norlab_icp_mapper?style=social)](https://github.com/norlab-ulaval/norlab_icp_mapper/stargazers) [norlab_icp_mapper](https://github.com/norlab-ulaval/norlab_icp_mapper):
   - A 2-D/3-D mapping library relying on the "Iterative Closest Point" algorithm. [Norlab](https://norlab.ulaval.ca) is maintaining and using the framework to deploy mobile robots in extreme conditions, recently featured in [Kilometer-scale autonomous navigation in subarctic forests: challenges and lessons learned](https://norlab.ulaval.ca/publications/field-report-ltr/) and [Lidar Scan Registration Robust to Extreme Motions](https://norlab.ulaval.ca/publications/extreme-motions/).
-- [![GitHub Repo stars](https://img.shields.io/github/stars/SherbyRobotics/pyro?style=social)](https://github.com/SherbyRobotics/pyro/stargazers) [pyro](https://github.com/SherbyRobotics/pyro): 
+- [![GitHub Repo stars](https://img.shields.io/github/stars/SherbyRobotics/pyro?style=social)](https://github.com/SherbyRobotics/pyro/stargazers) [pyro](https://github.com/SherbyRobotics/pyro):
   - An object-based toolbox for robot dynamic simulation, analysis, control and planning. [Createk](https://www.createk.co/) and Prof. Alexandre Girard is maintaining this library for their research on robot design, control and planning.
-- [![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/wiln?style=social)](https://github.com/norlab-ulaval/wiln/stargazers) [Weather Invariant Lidar-based Navigation (WILN)](https://github.com/norlab-ulaval/wiln): 
+- [![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/wiln?style=social)](https://github.com/norlab-ulaval/wiln/stargazers) [Weather Invariant Lidar-based Navigation (WILN)](https://github.com/norlab-ulaval/wiln):
   - A lidar-based Teach-and-Repeat framework designed to enable outdoor autonomous navigation in harsh weather. [Norlab](https://norlab.ulaval.ca) is maintaining and using the framework to deploy mobile robots in harsh weather, recently featured in [Kilometer-scale autonomous navigation in subarctic forests: challenges and lessons learned](https://norlab.ulaval.ca/publications/field-report-ltr/).
-- [![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/PercepTreeV1?style=social)]([[https://github.com/norlab-ulaval/PercepTreeV1/stargazers](https://github.com/norlab-ulaval/PercepTreeV1)](https://github.com/norlab-ulaval/PercepTreeV1)) [Tree detection based on deep learning](https://github.com/norlab-ulaval/PercepTreeV1 (PercepTree)): 
+- [![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/PercepTreeV1?style=social)]([[https://github.com/norlab-ulaval/PercepTreeV1/stargazers](https://github.com/norlab-ulaval/PercepTreeV1)](https://github.com/norlab-ulaval/PercepTreeV1)) [Tree detection based on deep learning](https://github.com/norlab-ulaval/PercepTreeV1 (PercepTree)):
   - An image-based solution to detect trees in outdoor environments. [Norlab](https://norlab.ulaval.ca) is maintaining and using the framework to develop autonomous precision forestry applications.
 
 ## Datasets
@@ -53,12 +53,12 @@ The list is sorted by number of stars.
 - [Precise Synthetic Image and LiDAR Dataset for Autonomous Vehicle Perception (presil)](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/projects/precise-synthetic-image-and-lidar-presil-dataset-autonomous): The dataset contains over 50,000 instances and includes high-definition images with full resolution depth information, semantic segmentation (images), point-wise segmentation (point clouds), ground point labels (point clouds), and detailed annotations for vehicles and people in Grand Theft Auto V (GTA V), a commercial video game.
   - [![GitHub Repo stars](https://img.shields.io/github/stars/bradenhurl/DeepGTAV-PreSIL?style=social)](https://github.com/bradenhurl/DeepGTAV-PreSIL/stargazers) [DeepGTAV-PreSIL](https://github.com/bradenhurl/DeepGTAV-PreSIL): Data generation code used to mine data from GTAV
   - [![GitHub Repo stars](https://img.shields.io/github/stars/bradenhurl/PreSIL-tools?style=social)](https://github.com/bradenhurl/PreSIL-tools/stargazers) [PreSIL-tools](https://github.com/bradenhurl/PreSIL-tools): Scripts for generating ground planes, splits, and visualizations from the data
-- [![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/PercepTreeV1?style=social)]([[https://github.com/norlab-ulaval/PercepTreeV1/stargazers](https://github.com/norlab-ulaval/PercepTreeV1)](https://github.com/norlab-ulaval/PercepTreeV1)) [Forest image datasets](https://github.com/norlab-ulaval/PercepTreeV1 (PercepTree)): 
+- [![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/PercepTreeV1?style=social)]([[https://github.com/norlab-ulaval/PercepTreeV1/stargazers](https://github.com/norlab-ulaval/PercepTreeV1)](https://github.com/norlab-ulaval/PercepTreeV1)) [Forest image datasets](https://github.com/norlab-ulaval/PercepTreeV1 (PercepTree)):
   - This repository contains two datasets: a 43,000 synthetic forest images and a 100 real image dataset. Both include high-definition RGB images with depth information, bounding box, instance segmentation masks and keypoints annotation.
- 
+
 ## Companies
 
-### Startup
+### Startups
 
 - Foxtrot Industriel [Official page](https://foxtrotindustriel.com)
 
@@ -79,6 +79,11 @@ The list is sorted by alphabetical order.
 - Robotiq (manipulator): [Official page](https://robotiq.com)
 - Sir Steward [Official page](https://sirsteward.com)
 
+### Aerospace
+
+- MDA Ltd. : [Website](https://mda.space)
+- NGC Aerospace  Ltd.: [Website](https://www.ngcaerospace.com)
+
 ### Natural Resources
 
 - MacLean Engineering: [Official page](https://macleanengineering.com)
@@ -92,7 +97,6 @@ Teams or divisions working on robotics within a larger organization.
 - General Dynamics Land System Canada - Innovation Cell
 - LeddarTech
 - FPInnovations
-- MDA
 - IVI: [Official page](https://www.ivisolutions.ca)
 
 ## Warehouse Robotics
@@ -192,7 +196,7 @@ The list is sorted by alphabetical order.
 <!-- This is a center, not a lab:
 - [Waterloo Centre for Automotive Research (WATCAR)](https://uwaterloo.ca/centre-automotive-research)), University of Waterloo:
   - Autonomous driving, advanced powertrains, [Autonomoose](https://www.autonomoose.net/) autonomous car
-  - Director: Sebastian Fischmeister 
+  - Director: Sebastian Fischmeister
 -->
 
 <!-- UOttawa -->
