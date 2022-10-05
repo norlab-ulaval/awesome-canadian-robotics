@@ -60,11 +60,12 @@ The list is sorted by alphabetical order.
 
 - Avidbots
 - Bluewrist: [Official page](https://bluewrist.com/)
+- Canadensys (mobile): [Official page](https://www.canadensys.com)
 - Cellula Robotics
 - Clearpath: [Official page](https://clearpathrobotics.com/), [GitHub](https://github.com/clearpathrobotics)
-- Kinova: [Official page](https://www.kinovarobotics.com/), [GitHub](https://github.com/Kinovarobotics)
-- Robotiq: [Official page](https://robotiq.com)
-- IndroRobotics: [Official page](https://indrorobotics.ca)
+- Kinova (manipulator): [Official page](https://www.kinovarobotics.com/), [GitHub](https://github.com/Kinovarobotics)
+- IndroRobotics (mobile): [Official page](https://indrorobotics.ca)
+- Robotiq (manipulator): [Official page](https://robotiq.com)
 
 ### Natural Resources
 
