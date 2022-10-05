@@ -55,6 +55,8 @@ The list is sorted by number of stars.
   - [![GitHub Repo stars](https://img.shields.io/github/stars/bradenhurl/PreSIL-tools?style=social)](https://github.com/bradenhurl/PreSIL-tools/stargazers) [PreSIL-tools](https://github.com/bradenhurl/PreSIL-tools): Scripts for generating ground planes, splits, and visualizations from the data
 - [![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/PercepTreeV1?style=social)]([[https://github.com/norlab-ulaval/PercepTreeV1/stargazers](https://github.com/norlab-ulaval/PercepTreeV1)](https://github.com/norlab-ulaval/PercepTreeV1)) [Forest image datasets](https://github.com/norlab-ulaval/PercepTreeV1 (PercepTree)):
   - This repository contains two datasets: a 43,000 synthetic forest images and a 100 real image dataset. Both include high-definition RGB images with depth information, bounding box, instance segmentation masks and keypoints annotation.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/UTIn3D?style=social) [University of Toronto Indoor 3D Dataset](https://github.com/utiasASRL/UTIn3D):
+  - This repository contains a robot navigation dataset in crowded indoor environment. It includes the lidar frames, their localization computed by ICP based algorithm PointMap, and the labels provided by automated annotation approach. It was introduced in [Learning Spatiotemporal Occupancy Grid Maps for Lifelong Navigation in Dynamic Scenes](https://arxiv.org/pdf/2108.10585.pdf).
 
 ## Companies
 
