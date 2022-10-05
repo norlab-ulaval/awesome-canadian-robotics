@@ -211,7 +211,12 @@ The list is sorted by alphabetical order.
 
 <!-- ### Prince Edward Island -->
 
-<!-- - UPEI -->
+<!-- UP COMING PROFESSORS:
+- [The More-Than-One Robotics Lab](https://vnbotics.blogspot.com/), University of Prince Edward Island
+  - Swarm Robotics
+  - Director: Trung Dung Ngo
+-->
+
 
 ### Quebec
 
@@ -236,8 +241,8 @@ The list is sorted by alphabetical order.
   - Parallel mechanisms, Articulated robotic hands, Cable-driven parallel mechanisms, Physical human-robot interaction, Haptic devices, Assistive devices
   - Director: [Clément Gosselin](https://scholar.google.ca/citations?user=O9VSIMoAAAAJ)
 - [Mobile Robotics Lab (MRL)](https://www.cim.mcgill.ca/~mrl/), McGill
-  - Perception, planning, underwater robotics
-  - Directors: [Gregory Dudek](https://scholar.google.ca/citations?user=BSORuFoAAAAJ)
+  - Perception, planning, underwater robotics, [GitHub](https://github.com/mcgillmrl)
+  - Directors: [Gregory Dudek](https://scholar.google.ca/citations?user=BSORuFoAAAAJ), [David Meger](https://scholar.google.ca/citations?user=gFwEytkAAAAJ)
 - [Mobile Robotics and Autonomous Systems Laboratory (MRASL)](https://www.polymtl.ca/robotique-mobile/en), Polytechnique Montréal:
   - Perception, control, real-time planning and decision-making under uncertainty
   - Director: [Jerome Le Ny](https://scholar.google.ca/citations?user=YCr3i00AAAAJ)
