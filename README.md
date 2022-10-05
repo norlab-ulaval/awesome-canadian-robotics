@@ -102,23 +102,27 @@ The list is sorted by alphabetical order.
 
 ### British Columbia
 
-- [CARIS Lab](https://caris.mech.ubc.ca), University of British Columbia:
+- [Autonomous Intelligence and Robotics Lab (AIRob)](https://robotics.sfu.ca/airob.html), Simon Fraser University:
+  - Automated planning, Multi-Agent/Robot Systems, Spatio-Temporal and Constraint Reasoning
+  - Director: [Hang Ma](https://scholar.google.ca/citations?user=KJbsVl8AAAAJ)
+- [Collaborative Advances Robotics and Intelligent Systems lab (CARIS)](https://caris.mech.ubc.ca), University of British Columbia:
   - Ethics and Human-Robot Interaction
   - Director: [Machiel Van der Loos](https://scholar.google.ca/citations?user=ze-QdW0AAAAJ)
+- [Multi-Agent Robotic Systems Lab (MARS)](https://sfumars.com), Simon Fraser University:
+  - Robotic safety, Reinforcement learning, Human intent inference, Visual navigation
+  - Director: [Mo Chen](https://scholar.google.ca/citations?user=19UAgLUAAAAJ)
 - [UBC Robotics and Control Laboratory](https://rcl.ece.ubc.ca/home-page/), University of British Columbia:
   - Medical image analysis, Image guided diagnosis and interventions, Telerobotic, Robotic control of mobile machines and manipulators
   - Directors: [Purang Abolmaesumi](https://scholar.google.ca/citations?user=gKZS5-IAAAAJ), [Tim Salcudean](https://scholar.google.ca/citations?user=kpp_A9wAAAAJ), [Robert Rohling](https://scholar.google.ca/citations?user=_KwSTGIAAAAJ)
-- [AIRob Lab](https://robotics.sfu.ca/airob.html), Simon Fraser University:
-  - Automated planning, Multi-Agent/Robot Systems, Spatio-Temporal and Constraint Reasoning
-  - Director: [Hang Ma](https://scholar.google.ca/citations?user=KJbsVl8AAAAJ)
-- [MARS Lab](https://sfumars.com), Simon Fraser University:
-  - Robotic safety, Reinforcement learning, Human intent inference, Visual navigation
-  - Director: [Mo Chen](https://scholar.google.ca/citations?user=19UAgLUAAAAJ)
+
+
+<!-- More UBC ? -->
+
+<!-- UP COMING PROFESSORS:
 - [ROSIE Lab](https://www.rosielab.ca), Simon Fraser University:
   - Social Intelligence, Empathy, Human-Robot Interaction
   - Director: [Angelica Lim](https://scholar.google.ca/citations?user=1jQEmPUAAAAJ)
-
-<!-- More UBC ? -->
+-->
 
 
 <!-- ### Manitoba -->
@@ -127,43 +131,48 @@ The list is sorted by alphabetical order.
 
 ### Ontario
 
-- [Offroad Robotics](https://offroad.engineering.queensu.ca/), Queen's University:
-  - Field and mobile robotics, state estimation, mechatronics, and systems control, [GitHub](https://github.com/offroad-robotics)
-  - Director: TODO
-- Advanced Robotics and Intelligent Systems Laboratory ([ARIS](https://syang.uoguelph.ca/aris/)), University of Guelph:
+- [Advanced Robotics and Intelligent Systems Laboratory (ARIS)](https://syang.uoguelph.ca/aris/), University of Guelph:
   - Intelligent Systems, Robotics, Control Systems, Vision and Signal Processing, Sensors, Communications
-  - Director: TODO
-- Autonomous Systems and Biomechatronics Lab ([ASB Lab](http://asblab.mie.utoronto.ca)), University of Toronto:
-  - Ethics and Human-Robot Interaction
-  - Director: TODO
-- Autonomous Space Robotics Lab ([ASRL](http://asrl.utias.utoronto.ca)), University of Toronto:
+  - Director: [Simon X. Yang](https://scholar.google.com/citations?hl=en&user=cyRDiPMAAAAJ)
+- [Autonomous Systems and Biomechatronics Lab (ASB Lab)](http://asblab.mie.utoronto.ca), University of Toronto:
+  - Assistive and Social Robotics, Search and Rescue, Intelligent Robotics, 3D Sensing, Human-Robot Interaction
+  - Director: [Goldie Nejat](https://scholar.google.com/citations?hl=en&user=1pCgjH0AAAAJ)
+- [Autonomous Systems Laboratory (ASL)](https://uwaterloo.ca/autonomous-systems-lab), University of Waterloo:
+  - Robot Motion Planning, Future Transportation Systems, Autonomous Driving
+  - Director: [Stephen L. Smith](https://scholar.google.com/citations?user=_gfwCNwAAAAJ)
+- [Autonomous Space Robotics Lab (ASRL)](http://asrl.utias.utoronto.ca), University of Toronto:
   - Mobile robots, Vision-based navigation, [GitHub](https://github.com/utiasASRL)
   - Director: [Timothy D Barfoot](https://scholar.google.ca/citations?user=N_vPIhoAAAAJ)
-- Space and Terrestrial Autonomous Robotic Systems ([STARS Laboratory](https://starslab.ca/)), University of Toronto:
-  - TODO keywords, [GitHub](https://github.com/utiasSTARS)
+- [Autonomous Vehicle Research and Intelligence Lab (AVRIL)](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab), University of Waterloo:
+  - Passenger Vehicles,  Automated driving,  Connected (V2X) Vehicles,  ADAS,  Driverless shuttles, Commercial trucks, Warehouse and industrial robots, Field platform vehicles
+  - Directors: [Amir Khajepour](https://scholar.google.ca/citations?user=TL84ll0AAAAJ), [John McPhee](https://scholar.google.com/citations?user=boJMp7AAAAAJ)
+- [Offroad Robotics](https://offroad.engineering.queensu.ca/), Queen's University:
+  - Field and mobile robotics, state estimation, mechatronics, and systems control, [GitHub](https://github.com/offroad-robotics)
+  - Director: [Josh Marshall](https://scholar.google.ca/citations?user=2zOIvcUAAAAJ)
+- [Space and Terrestrial Autonomous Robotic Systems (STARS Laboratory)](https://starslab.ca/), University of Toronto:
+  - Collaborative Robotics, Mobile Manipulation, Multimodal Sensing, Computer Vision, Machine Learning, [GitHub](https://github.com/utiasSTARS)
   - Director: [Jonathan Kelly](https://scholar.google.ca/citations?user=KtSR8_0AAAAJ)
-- Toronto Robotics and AI Laboratory ([TRAILab](https://www.trailab.utias.utoronto.ca/)), University of Toronto:
+- [Toronto Robotics and AI Laboratory (TRAILab)](https://www.trailab.utias.utoronto.ca/), University of Toronto:
   - 3D Object Detection, Drone Landing, Robotic Manipulation, Robotics perception, Planning problems, [GitHub](https://github.com/TRAILab)
   - Previously the WAVE Lab in University of Waterloo ([GitHub](https://github.com/wavelab))
   - Director: [Steven Waslander](https://scholar.google.com/citations?user=jY_Bcd8AAAAJ)
-- Autonomous Systems Laboratory ([ASL](https://uwaterloo.ca/autonomous-systems-lab)), University of Waterloo:
-  - Robot Motion Planning, Future Transportation Systems, Autonomous Driving
-  - Director: [Stephen L. Smith](https://scholar.google.com/citations?user=_gfwCNwAAAAJ)
-- Autonomous Vehicle Research and Intelligence Lab ([AVRIL](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab)), University of Waterloo:
-  - Passenger Vehicles,  Automated driving,  Connected (V2X) Vehicles,  ADAS,  Driverless shuttles, Commercial trucks, Warehouse and industrial robots, Field platform vehicles
-  - Directors: [Amir Khajepour](https://scholar.google.ca/citations?user=TL84ll0AAAAJ), [John McPhee](https://scholar.google.com/citations?user=boJMp7AAAAAJ)
-- Waterloo Centre for Automotive Research ([WATCAR](https://uwaterloo.ca/centre-automotive-research)), University of Waterloo:
-  - Autonomous driving, advanced powertrains, [Autonomoose](https://www.autonomoose.net/) autonomous car
-  - Director: Sebastian Fischmeister <!-- - no google scholar profile, but enough citations on semantic scholar -->
-- Waterloo Intelligent Systems Engineering Lab ([WISE Lab](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab)), University of Waterloo
+- [Waterloo Intelligent Systems Engineering Lab (WISE Lab)](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab), University of Waterloo
   - Autonomous Driving, Human Driving Behaviour Modeling, Safety And Quality Requirements, Machine Learning, Reinforcement Learning, Deep Learning, Simulation, [GitLab](https://git.uwaterloo.ca/wise-lab)
   - Director: [Krzysztof Czarnecki](https://scholar.google.ca/citations?user=ZzCpumQAAAAJ)
 
+<!-- This is a center, not a lab:
+- [Waterloo Centre for Automotive Research (WATCAR)](https://uwaterloo.ca/centre-automotive-research)), University of Waterloo:
+  - Autonomous driving, advanced powertrains, [Autonomoose](https://www.autonomoose.net/) autonomous car
+  - Director: Sebastian Fischmeister 
+-->
 
 <!-- UOttawa -->
 <!-- York University -->
 <!-- McMaster University -->
 <!-- Ryerson University -->
+
+<!-- UP COMING PROFESSORS:
+-->
 
 <!-- ### Prince Edward Island -->
 
@@ -176,44 +185,54 @@ The list is sorted by alphabetical order.
 <!-- UMontreal -->
 <!-- UQAM - ETS -->
 <!-- McGill -->
+<!-- Concordia University -->
 <!-- INRS -->
+
+- [Aerospace Mechatronics Laboratory (AML)](http://aerospacemechatronics.lab.mcgill.ca/), McGill:
+  - UAVs, Space robotics systems, Timber grasping
+  - Director: [Inna Sharf](https://scholar.google.ca/citations?user=Ys2mNPkAAAAJ)
 - [Control and Robotics Laboratory (CoRo)](https://en.etsmtl.ca/unites-de-recherche/coro/accueil?lang=en-CA), École de technologie supérieure (ÉTS):
   - Precision robotics, parallel robotics, mechatronics and haptics, control
-  - Director: [Ilian Bonev](https://en.etsmtl.ca/Bottin/ETS/Alphabetique/FicheEmploye?Numero=2363)
-- [INIT Robots](https://initrobots.etsmtl.ca/), ETS Montréal
-  - Human-robot interaction, teleoperation
-  - Director: David St-Onge
+  - Director: [Ilian Bonev](https://scholar.google.ca/citations?hl=en&user=YdVfbUgAAAAJ)
+- [Intelligent / Interactive / Integrated / Interdisciplinary Robot Lab (IntRoLab)](https://introlab.3it.usherbrooke.ca), Université de Sherbrooke:
+  - Service Robots, All-Terrain Robots, Interactive Robots, Assistive Robotics, Tele-Health Robotics, Automobile, Surgical Robots
+  - Director: [Francois Michaud](https://scholar.google.com/citations?user=CHlw77gAAAAJ)
 - [Laboratoire de robotique](https://robot.gmc.ulaval.ca/en/home), Université Laval:
   - Parallel mechanisms, Articulated robotic hands, Cable-driven parallel mechanisms, Physical human-robot interaction, Haptic devices, Assistive devices
   - Director: [Clément Gosselin](https://scholar.google.ca/citations?user=O9VSIMoAAAAJ)
-- Northern Robotics Laboratory ([Norlab](https://norlab.ulaval.ca)), Université Laval:
-  - Autonomous vehicles, lidars, SLAM, and control, [GitHub](https://github.com/norlab-ulaval)
-  - Director: [François Pomerleau](https://scholar.google.ca/citations?user=FJ9IqNoAAAAJ&hl=en)
-- Mobile Robotics and Autonomous Systems Laboratory ([MRASL](https://www.polymtl.ca/robotique-mobile/en)), Polytechnique Montréal:
-  - Perception, control, real-time planning and decision-making under uncertainty
-  - Director: [Jerome Le Ny](https://scholar.google.ca/citations?user=YCr3i00AAAAJ)
-- Aerospace Mechatronics Laboratory ([AML](http://aerospacemechatronics.lab.mcgill.ca/)), McGill:
-  - UAVs, Space robotics systems, Timber grasping
-  - Director: [Inna Sharf](https://scholar.google.ca/citations?user=Ys2mNPkAAAAJ)
 - [Mobile Robotics Lab (MRL)](https://www.cim.mcgill.ca/~mrl/), McGill
   - Perception, planning, underwater robotics
-  - Directors: Gregory Dudek, David Meger
+  - Directors: [Gregory Dudek](https://scholar.google.com/citations?hl=en&user=BSORuFoAAAAJ)
+- [Mobile Robotics and Autonomous Systems Laboratory (MRASL)](https://www.polymtl.ca/robotique-mobile/en), Polytechnique Montréal:
+  - Perception, control, real-time planning and decision-making under uncertainty
+  - Director: [Jerome Le Ny](https://scholar.google.ca/citations?user=YCr3i00AAAAJ)
+- [Northern Robotics Laboratory (Norlab)](https://norlab.ulaval.ca), Université Laval:
+  - Autonomous vehicles, lidars, SLAM, and control, [GitHub](https://github.com/norlab-ulaval)
+  - Director: [François Pomerleau](https://scholar.google.ca/citations?user=FJ9IqNoAAAAJ&hl=en)
+- [Robotics and Embodied AI Lab (REAL)](https://montrealrobotics.ca/), Université de Montréal:
+  - Robotics and Embodied AI
+  - Director: [Liam Paull](https://montrealrobotics.ca/)
+
+
+<!-- UP COMING PROFESSORS:
+- [INIT Robots](https://initrobots.etsmtl.ca/), ETS Montréal
+  - Human-robot interaction, teleoperation
+  - Director: [David St-Onge](https://scholar.google.com/citations?hl=en&user=1_ytQ1YAAAAJ)
 - [RAISE Lab](https://raise.cim.mcgill.ca), McGill:
   - Ethics and Human-Robot Interaction
   - Director: [AJung Moon](https://scholar.google.ca/citations?user=NNnTnK8AAAAJ)
-- [REAL Lab](https://montrealrobotics.ca/), Université de Montréal:
-  - Robotics and Embodied AI
-  - Director: [Liam Paull](https://montrealrobotics.ca/)
-- Institut interdisciplinaire d'innovation technologique ([3IT](https://www.usherbrooke.ca/3it)), Université de Sherbrooke:
+- [Aerospace Robotics Laboratory](https://users.encs.concordia.ca/~kskoniec/), Concordia University:
+  - Director: [Krzysztof (Chris) Skonieczny](https://scholar.google.ca/citations?hl=en&user=WOSCmiEAAAAJ)
+-->
+
+<!-- This is a center, not a lab:
+- [Institut interdisciplinaire d'innovation technologique (3IT)](https://www.usherbrooke.ca/3it), Université de Sherbrooke:
   - Applications of robotics in society, Drones
   - Research groups:
     - [Collaborative Robotics Technologies in Manufacturing (CoRoM)](https://corom.ca): NSERC-CREATE program with ETS and Université Laval
     - [Createk](https://www.createk.co) : mechanical engineering research group
   - Director: [Richard Arès](https://scholar.google.ca/citations?user=6IorTL0AAAAJ)
-- Intelligent / Interactive / Integrated / Interdisciplinary Robot Lab ([IntRoLab](https://introlab.3it.usherbrooke.ca)), Université de Sherbrooke:
-  - Service Robots, All-Terrain Robots, Interactive Robots, Assistive Robotics, Tele-Health Robotics, Automobile, Surgical Robots
-  - Director: [Francois Michaud](https://scholar.google.com/citations?user=CHlw77gAAAAJ)
-
+-->
 ### New Brunswick
 
 - [Robotics and Mechanisms Laboratory](https://www2.unb.ca/ram/links/links.html), University of New Brunswick:
@@ -228,7 +247,6 @@ The list is sorted by alphabetical order.
   - Director: [Ya-Jun Pan](https://scholar.google.ca/citations?user=Ptjotv8AAAAJ)
 
 <!-- - Dalhouse University -->
-
 
 
 <!-- ### Newfoundland -->
