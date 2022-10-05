@@ -94,7 +94,9 @@ The list is sorted by alphabetical order.
 <!-- - CNRC -->
 
 ### Alberta
-
+- [Intelligent Robot Learning Laboratory](https://irll.ca/team/), University of Alberta:
+  - Fundamental reinforcement learning research, Application of artificial intelligence to real-world settings
+  - Director: [Matthew E. Taylor](https://scholar.google.ca/citations?user=edQgLXcAAAAJ&hl=en&oi=ao)
 - [Robotarium Laboratory](https://www.uvs-robotarium-lab.ca/), University of Calgary:
   - Control, Artificial Intelligence, Navigation, Localization, Mapping, Robot Cooperation & Collaboration, Human-Robot Interaction (HRI)
   - Director: Alex Ramirez-Serrano <!-- - no google scholar profile! seems to have low citation count -->
