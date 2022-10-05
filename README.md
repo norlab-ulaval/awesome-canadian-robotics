@@ -114,7 +114,7 @@ The list is sorted by alphabetical order.
 <!-- More UBC ? -->
 
 
-### Manitoba
+<!-- ### Manitoba -->
 
 <!-- UManitoba -->
 
@@ -158,7 +158,7 @@ The list is sorted by alphabetical order.
 <!-- McMaster University -->
 <!-- Ryerson University -->
 
-### Prince Edward Island
+<!-- ### Prince Edward Island -->
 
 <!-- - UPEI -->
 
@@ -224,7 +224,7 @@ The list is sorted by alphabetical order.
 
 
 
-### Newfoundland
+<!-- ### Newfoundland -->
 
 <!-- Memorial University -->
 
