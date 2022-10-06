@@ -70,10 +70,10 @@ Companies with their primary mission focusing on robotics.
 You need at least 10 employees to be listed here.
 The list is sorted by alphabetical order.
 
-- Avidbots
+- Avidbots: [Official page](https://avidbots.com/)
 - Bluewrist: [Official page](https://bluewrist.com/)
 - Canadensys (mobile): [Official page](https://www.canadensys.com)
-- Cellula Robotics
+- Cellula Robotics: [Official page](https://www.cellula.com/)
 - Clearpath: [Official page](https://clearpathrobotics.com/), [GitHub](https://github.com/clearpathrobotics)
 - Kinova (manipulator): [Official page](https://www.kinovarobotics.com/), [GitHub](https://github.com/Kinovarobotics)
 - IndroRobotics (mobile): [Official page](https://indrorobotics.ca)
@@ -83,8 +83,8 @@ The list is sorted by alphabetical order.
 
 ### Aerospace
 
-- MDA Ltd.: [Website](https://mda.space)
-- NGC Aerospace  Ltd.: [Website](https://www.ngcaerospace.com)
+- MDA Ltd.: [Official page](https://mda.space)
+- NGC Aerospace  Ltd.: [Official page](https://www.ngcaerospace.com)
 
 ### Natural Resources
 
