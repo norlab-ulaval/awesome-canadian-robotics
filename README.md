@@ -115,18 +115,36 @@ The list is sorted by alphabetical order.
 <!-- - CNRC -->
 
 ### Alberta
+- [Applied Nonlinear Controls Laboratory](http://ancl.ece.ualberta.ca/), University of Alberta:
+  - Nonlinear Control, Analysis, Prediction and Influence of Systems, Nonlinear Mathematical Models, Robotics, UAVs.
+  - Director: [Alan Lynch](https://scholar.google.ca/citations?user=0a_D9TgAAAAJ&hl=en&oi=ao)
 - [Artificial Intelligence and Robotics in Construction (AIRCon-Lab)](https://profsckang.wixsite.com/uofa-rlab), University of Alberta:
   - Sensors, Actuators and Artificial Intelligence in Construction Sites.
   - Director: [Shih-Chung Jessy Kang](https://scholar.google.ca/citations?user=ezCU4-cAAAAJ)
+- [Assistive Technology Labs](https://www.ualberta.ca/rehabilitation/research/assistive-technology-labs/index.html), University of Alberta:
+  - International Assistive Technology Development, Clinical Research, Children's Development.
+  - Director: [Kim Adams](https://scholar.google.ca/citations?user=a-Qg7VgAAAAJ&hl=en&oi=ao)
+- [Bionic Limbs for Improved Natural Control](https://blinclab.ca/), University of Alberta:
+  - Sensory Motor Control, Integration of Advanced Prosthetics and Robotics Systems, Prosthetic Restoration, Rehabilitation Robotics.
+  - Director: [Jacqueline Hebert](https://scholar.google.ca/citations?user=Ke1MMPoAAAAJ&hl=en&oi=ao) & [Patrick Pilarski](https://scholar.google.ca/citations?user=VGQmtWEAAAAJ&hl=en&oi=ao)
+- [Computer Vision and Robotics Group](http://webdocs.cs.ualberta.ca/~vis/), University of Alberta:
+  - Computer Vision, Robotics, Medical Imaging.
+  - Director: [Martin Jagersand](https://scholar.google.ca/citations?user=kxAlIY4AAAAJ&hl=en&oi=ao)
 - [Intelligent Automation Research Laboratory (iAR)](https://www.ucalgary.ca/aerospace/robotics), University of Calgary:
   - Industrial automation with mechatronic systems, vibration, control, optimization, and artificial intelligence.
   - Director: [Jihyun Lee](https://scholar.google.ca/citations?user=nDMhFS8AAAAJ)
 - [Intelligent Robot Learning Laboratory](https://irll.ca/team/), University of Alberta:
   - Fundamental reinforcement learning research, Application of artificial intelligence to real-world settings
   - Director: [Matthew E. Taylor](https://scholar.google.ca/citations?user=edQgLXcAAAAJ)
+- [Neuromuscular Control & Biomechanics Laboratory](https://www.ncbl.ualberta.ca/), University of Alberta:
+  - Human Mobility and Performance, Advanced Assistive Technology, Rehabilitation.
+  - Director: [Hossein Rouhani](https://scholar.google.ca/citations?user=sVizzJ8AAAAJ&hl=en&oi=ao) & [Albert H. Vette](https://scholar.google.ca/citations?user=f7w2JJoAAAAJ&hl=en&oi=ao)
 - [Robotarium Laboratory](https://www.uvs-robotarium-lab.ca/), University of Calgary:
   - Control, Artificial Intelligence, Navigation, Localization, Mapping, Robot Cooperation & Collaboration, Human-Robot Interaction (HRI)
   - Director: Alex Ramirez-Serrano <!-- - no google scholar profile! seems to have low citation count -->
+- [Robotic Systems Research, Telerobotic and Biorobotic Systems Group](http://www.ece.ualberta.ca/~tbs/pmwiki/), University of Alberta:
+  - Medical & Biomedical Robotics, Surgery, Rehabilitation, Image-guided Robotics, Human-Robot Interfaces, Machine Intelligence-based Solutions.
+  - Director: [Mahdi Tavakoli](https://scholar.google.ca/citations?user=w7XLOoEAAAAJ&hl=en&oi=ao)
 <!-- - UAlberta -->
 
 ### British Columbia
