@@ -2,7 +2,7 @@
 
 # Awesome Canadian Robotics
 
-A curated list of Canadian robotics open-source software, compagnies and researchers.
+A curated list of Canadian robotics open-source software, companies and researchers.
 The maintenance of this list is aligned with the proposition of the [Canadian Robotics Council](https://www.roboticscouncil.ca) to better share information about robotics initiative in Canada.
 This is not a comprehensive list of everything happening in Canada related to robotics.
 We added abitrary criterias to be listed here with the intention to be transparent.
