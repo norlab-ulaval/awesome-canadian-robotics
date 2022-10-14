@@ -1,8 +1,7 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Canadian Robotics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# Awesome Canadian Robotics
+> A curated list of Canadian robotics open-source software, companies and researchers.
 
-A curated list of Canadian robotics open-source software, companies and researchers.
 The maintenance of this list is aligned with the proposition of the [Canadian Robotics Council](https://www.roboticscouncil.ca) to better share information about robotics initiative in Canada.
 This is not a comprehensive list of everything happening in Canada related to robotics.
 We added abitrary criterias to be listed here with the intention to be transparent.
@@ -12,12 +11,20 @@ We added abitrary criterias to be listed here with the intention to be transpare
 - [Open-Source Software](#open-source-software)
 - [Datasets](#datasets)
 - [Companies](#companies)
+  - [Startups](#startups)
   - [Robot manufacturers](#robot-manufacturers)
   - [Aerospace](#aerospace)
   - [Natural Resources](#natural-resources)
   - [Warehouse Robotics](#warehouse-robotics)
 - [Organisations and Divisions](#organisations-and-divisions)
 - [Laboratories](#laboratories)
+  - [Alberta](#alberta)
+  - [British Columbia](#british-columbia)
+  - [Ontario](#ontario)
+  - [Quebec](#quebec)
+  - [New Brunswick](#new-brunswick)
+  - [Nova Scotia](#nova-scotia)
+  - [Newfoundland](#newfoundland)
 - [Related Awesome Lists](#related-awesome-lists)
 
 ## Open-Source Software
@@ -127,6 +134,7 @@ The list is sorted by alphabetical order.
 <!-- - CNRC -->
 
 ### Alberta
+
 - [Applied Nonlinear Controls Laboratory](http://ancl.ece.ualberta.ca/), University of Alberta:
   - Nonlinear Control, Analysis, Prediction and Influence of Systems, Nonlinear Mathematical Models, Robotics, UAVs.
   - Director: [Alan Lynch](https://scholar.google.ca/citations?user=0a_D9TgAAAAJ&hl=en&oi=ao)
@@ -273,6 +281,9 @@ The list is sorted by alphabetical order.
 - [Mobile Robotics Lab (MRL)](https://www.cim.mcgill.ca/~mrl/), McGill
   - Perception, planning, underwater robotics, [GitHub](https://github.com/mcgillmrl)
   - Directors: [Gregory Dudek](https://scholar.google.ca/citations?user=BSORuFoAAAAJ), [David Meger](https://scholar.google.ca/citations?user=gFwEytkAAAAJ)
+- [Making Innovative Space Technology (MIST)](https://mistlab.ca/), Polytechnique Montréal:
+  - Swarm robotics, multi-robot systems, [GitHub](https://github.com/MISTLab)
+  - Director: [Giovanni Beltrame](https://scholar.google.ca/citations?user=TVHJJ9wAAAAJ)
 - [Mobile Robotics and Autonomous Systems Laboratory (MRASL)](https://www.polymtl.ca/robotique-mobile/en), Polytechnique Montréal:
   - Perception, control, real-time planning and decision-making under uncertainty
   - Director: [Jerome Le Ny](https://scholar.google.ca/citations?user=YCr3i00AAAAJ)
