@@ -137,19 +137,19 @@ The list is sorted by alphabetical order.
 
 - [Applied Nonlinear Controls Laboratory](http://ancl.ece.ualberta.ca/), University of Alberta:
   - Nonlinear Control, Analysis, Prediction and Influence of Systems, Nonlinear Mathematical Models, Robotics, UAVs.
-  - Director: [Alan Lynch](https://scholar.google.ca/citations?user=0a_D9TgAAAAJ&hl=en&oi=ao)
+  - Director: [Alan Lynch](https://scholar.google.ca/citations?user=0a_D9TgAAAAJ)
 - [Artificial Intelligence and Robotics in Construction (AIRCon-Lab)](https://profsckang.wixsite.com/uofa-rlab), University of Alberta:
   - Sensors, Actuators and Artificial Intelligence in Construction Sites.
   - Director: [Shih-Chung Jessy Kang](https://scholar.google.ca/citations?user=ezCU4-cAAAAJ)
 - [Assistive Technology Labs](https://www.ualberta.ca/rehabilitation/research/assistive-technology-labs/index.html), University of Alberta:
   - International Assistive Technology Development, Clinical Research, Children's Development.
-  - Director: [Kim Adams](https://scholar.google.ca/citations?user=a-Qg7VgAAAAJ&hl=en&oi=ao)
+  - Director: [Kim Adams](https://scholar.google.ca/citations?user=a-Qg7VgAAAAJ)
 - [Bionic Limbs for Improved Natural Control](https://blinclab.ca/), University of Alberta:
   - Sensory Motor Control, Integration of Advanced Prosthetics and Robotics Systems, Prosthetic Restoration, Rehabilitation Robotics.
-  - Director: [Jacqueline Hebert](https://scholar.google.ca/citations?user=Ke1MMPoAAAAJ&hl=en&oi=ao) & [Patrick Pilarski](https://scholar.google.ca/citations?user=VGQmtWEAAAAJ&hl=en&oi=ao)
+  - Director: [Jacqueline Hebert](https://scholar.google.ca/citations?user=Ke1MMPoAAAAJ) & [Patrick Pilarski](https://scholar.google.ca/citations?user=VGQmtWEAAAAJ)
 - [Computer Vision and Robotics Group](http://webdocs.cs.ualberta.ca/~vis/), University of Alberta:
   - Computer Vision, Robotics, Medical Imaging.
-  - Director: [Martin Jagersand](https://scholar.google.ca/citations?user=kxAlIY4AAAAJ&hl=en&oi=ao)
+  - Director: [Martin Jagersand](https://scholar.google.ca/citations?user=kxAlIY4AAAAJ)
 - [Intelligent Automation Research Laboratory (iAR)](https://www.ucalgary.ca/aerospace/robotics), University of Calgary:
   - Industrial automation with mechatronic systems, vibration, control, optimization, and artificial intelligence.
   - Director: [Jihyun Lee](https://scholar.google.ca/citations?user=nDMhFS8AAAAJ)
@@ -158,13 +158,13 @@ The list is sorted by alphabetical order.
   - Director: [Matthew E. Taylor](https://scholar.google.ca/citations?user=edQgLXcAAAAJ)
 - [Neuromuscular Control & Biomechanics Laboratory](https://www.ncbl.ualberta.ca/), University of Alberta:
   - Human Mobility and Performance, Advanced Assistive Technology, Rehabilitation.
-  - Director: [Hossein Rouhani](https://scholar.google.ca/citations?user=sVizzJ8AAAAJ&hl=en&oi=ao) & [Albert H. Vette](https://scholar.google.ca/citations?user=f7w2JJoAAAAJ&hl=en&oi=ao)
+  - Director: [Hossein Rouhani](https://scholar.google.ca/citations?user=sVizzJ8AAAAJ) & [Albert H. Vette](https://scholar.google.ca/citations?user=f7w2JJoAAAAJ)
 - [Robotarium Laboratory](https://www.uvs-robotarium-lab.ca/), University of Calgary:
   - Control, Artificial Intelligence, Navigation, Localization, Mapping, Robot Cooperation & Collaboration, Human-Robot Interaction (HRI)
   - Director: Alex Ramirez-Serrano <!-- - no google scholar profile! seems to have low citation count -->
 - [Robotic Systems Research, Telerobotic and Biorobotic Systems Group](http://www.ece.ualberta.ca/~tbs/pmwiki/), University of Alberta:
   - Medical & Biomedical Robotics, Surgery, Rehabilitation, Image-guided Robotics, Human-Robot Interfaces, Machine Intelligence-based Solutions.
-  - Director: [Mahdi Tavakoli](https://scholar.google.ca/citations?user=w7XLOoEAAAAJ&hl=en&oi=ao)
+  - Director: [Mahdi Tavakoli](https://scholar.google.ca/citations?user=w7XLOoEAAAAJ)
 <!-- - UAlberta -->
 
 ### British Columbia
@@ -337,7 +337,7 @@ The list is sorted by alphabetical order.
   - Director: [Ralf Bachmayer](https://scholar.google.ca/citations?user=r-O7810AAAAJ)
 - [Bio-inspired Robotics (BOTS)](https://www.mun.ca/engineering/research/centres-and-facilities/research-laboratories/electrical-and-computer-engineering/bio-inspired-robotics-bots), Memorial University:
   - Swarm Robotics
-  - Director: [Andrew Vardy](https://scholar.google.ca/citations?user=ccxPX38AAAAJ), [Todd Wareham](https://scholar.google.ca/citations?user=1cFXu-QAAAAJ), [David Churchill](https://scholar.google.com/citations?user=teRseTgAAAAJ)
+  - Director: [Andrew Vardy](https://scholar.google.ca/citations?user=ccxPX38AAAAJ), [Todd Wareham](https://scholar.google.ca/citations?user=1cFXu-QAAAAJ), [David Churchill](https://scholar.google.ca/citations?user=teRseTgAAAAJ)
 - [Intelligent Systems Laboratory](https://www.mun.ca/engineering/research/centres-and-facilities/research-laboratories/mechanical-engineering/intelligent-systems-laboratory), Memorial University:
   - Sensor design, State estimation, Pack ice field detection and tracking, Nonlinear model predictive control of mobile robots, Cooperative localization of distributed multi-robotic systems, Visual-inertial navigation, Robot perception using visual attention
   - Directors: [George K. Mann](https://scholar.google.ca/citations?user=CyavUNwAAAAJ), [Ray Gosine](https://scholar.google.ca/citations?user=57WxPZMAAAAJ), [Andrew Vardy](https://scholar.google.ca/citations?user=ccxPX38AAAAJ)
