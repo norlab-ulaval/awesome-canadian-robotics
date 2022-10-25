@@ -223,12 +223,15 @@ The list is sorted by alphabetical order.
 - [Offroad Robotics](https://offroad.engineering.queensu.ca/), Queen's University:
   - Field and mobile robotics, state estimation, mechatronics, and systems control, [GitHub](https://github.com/offroad-robotics)
   - Director: [Josh Marshall](https://scholar.google.ca/citations?user=2zOIvcUAAAAJ)
-- [People, AI, & Robots lab (PAIR)](https://www.pair.toronto.edu/):
+- [People, AI, & Robots lab (PAIR)](https://www.pair.toronto.edu/), University of Toronto:
   - Robotic Manipulation, Robot Learning, Reinforcement Learning, Machine Learning, Computer Vision
   - Director: [Animesh Garg](https://scholar.google.ca/citations?user=zp8V7ZMAAAAJ)
 - [Space and Terrestrial Autonomous Robotic Systems (STARS Laboratory)](https://starslab.ca/), University of Toronto:
   - Collaborative Robotics, Mobile Manipulation, Multimodal Sensing, Computer Vision, Machine Learning, [GitHub](https://github.com/utiasSTARS)
   - Director: [Jonathan Kelly](https://scholar.google.ca/citations?user=KtSR8_0AAAAJ)
+- [Toronto Intelligent Systems Lab (TISL)](https://tisl.cs.utoronto.ca/), University of Toronto:
+  - Probabilistic and Geometric Deep Learning, 3D Vision, Reinforcement Learning
+  - Director: [Igor Gilitschenski](https://scholar.google.ca/citations?user=Nuw1Y4oAAAAJ)
 - [Toronto Robotics and AI Laboratory (TRAILab)](https://www.trailab.utias.utoronto.ca/), University of Toronto:
   - 3D Object Detection, Drone Landing, Robotic Manipulation, Robotics perception, Planning problems, [GitHub](https://github.com/TRAILab)
   - Previously the WAVE Lab in University of Waterloo ([GitHub](https://github.com/wavelab))
