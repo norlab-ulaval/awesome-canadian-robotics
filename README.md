@@ -217,6 +217,9 @@ The list is sorted by alphabetical order.
 - [Autonomous Vehicle Research and Intelligence Lab (AVRIL)](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab), University of Waterloo:
   - Passenger Vehicles,  Automated driving,  Connected (V2X) Vehicles,  ADAS,  Driverless shuttles, Commercial trucks, Warehouse and industrial robots, Field platform vehicles
   - Directors: [Amir Khajepour](https://scholar.google.ca/citations?user=TL84ll0AAAAJ), [John McPhee](https://scholar.google.ca/citations?user=boJMp7AAAAAJ)
+- [Co​ntinuum Roboti​​cs Laboratory](https://crl.utm.utoronto.ca/), University of Toronto:
+  - Continuum robotics, [GitHub](https://github.com/ContinuumRoboticsLab)
+  - Director: [Jessica Burgner-Kahrs](https://scholar.google.ca/citations?user=JtHZL24AAAAJ)
 - [Offroad Robotics](https://offroad.engineering.queensu.ca/), Queen's University:
   - Field and mobile robotics, state estimation, mechatronics, and systems control, [GitHub](https://github.com/offroad-robotics)
   - Director: [Josh Marshall](https://scholar.google.ca/citations?user=2zOIvcUAAAAJ)
