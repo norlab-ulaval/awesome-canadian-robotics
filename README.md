@@ -220,12 +220,18 @@ The list is sorted by alphabetical order.
 - [Co​ntinuum Roboti​​cs Laboratory](https://crl.utm.utoronto.ca), University of Toronto:
   - Continuum robotics, [GitHub](https://github.com/ContinuumRoboticsLab)
   - Director: [Jessica Burgner-Kahrs](https://scholar.google.ca/citations?user=JtHZL24AAAAJ)
+- [Lakehead University Robotics Lab](https://xpliu.lakeheadu.ca/lab), Lakehead University:
+  - Biped Walking Robots, parallel robots, Nonlinear Adaptive Control and Robust Control
+  - Director: [Xiaoping Liu](https://scholar.google.ca/citations?user=H8vOyBIAAAAJ)
 - [Offroad Robotics](https://offroad.engineering.queensu.ca), Queen's University:
   - Field and mobile robotics, state estimation, mechatronics, and systems control, [GitHub](https://github.com/offroad-robotics)
   - Director: [Josh Marshall](https://scholar.google.ca/citations?user=2zOIvcUAAAAJ)
 - [People, AI, & Robots lab (PAIR)](https://www.pair.toronto.edu), University of Toronto:
   - Robotic Manipulation, Robot Learning, Reinforcement Learning, Machine Learning, Computer Vision
   - Director: [Animesh Garg](https://scholar.google.ca/citations?user=zp8V7ZMAAAAJ)
+- [Robotics & Automatic Control Laboratory](http://atayebi.lakeheadu.ca/research_group.html), Lakehead University:
+  - Design of estimation and control algorithms for UAVs. Vision-aided inertial navigation systems for multi-UAV collaborative applications in GPS-denied environments
+  - Director: [Abdelhamid Tayebi](https://scholar.google.ca/citations?user=bZXTyF4AAAAJ)
 - [Space and Terrestrial Autonomous Robotic Systems (STARS Laboratory)](https://starslab.ca), University of Toronto:
   - Collaborative Robotics, Mobile Manipulation, Multimodal Sensing, Computer Vision, Machine Learning, [GitHub](https://github.com/utiasSTARS)
   - Director: [Jonathan Kelly](https://scholar.google.ca/citations?user=KtSR8_0AAAAJ)
