@@ -102,6 +102,7 @@ The list is sorted by alphabetical order.
 ### Aerospace
 
 - MDA Ltd.: [Official page](https://mda.space)
+- Mission Control Space Services Inc.: [Official page](https://www.missioncontrolspaceservices.com)
 - NGC Aerospace  Ltd.: [Official page](https://www.ngcaerospace.com)
 
 ### Natural Resources
