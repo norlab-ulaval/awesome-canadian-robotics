@@ -1,7 +1,9 @@
 name: awesome-linting
 on:
   pull_request:
-    branches: [main]
+    branches: ["main"]
+  push:
+    branches: ["main"]
 jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest
