@@ -125,6 +125,7 @@ Teams or divisions working on robotics within a larger organization.
 - LeddarTech
 - FPInnovations
 - IVI: [Official page](https://www.ivisolutions.ca)
+- Area X.O: [Official page](https://areaxo.com)
 
 
 ## Laboratories
