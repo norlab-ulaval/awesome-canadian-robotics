@@ -1,6 +1,6 @@
 # Awesome Canadian Robotics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of Canadian robotics open-source software, companies and researchers.
+> A curated list of Canadian robotics open-source software, datasets, companies, laboratories, and researchers.
 
 The maintenance of this list is aligned with the proposition of the [Canadian Robotics Council](https://www.roboticscouncil.ca) to better share information about robotics initiative in Canada.
 This is not a comprehensive list of everything happening in Canada related to robotics.
@@ -244,7 +244,7 @@ The list is sorted by alphabetical order.
   - Director: [Inna Sharf](https://scholar.google.ca/citations?user=Ys2mNPkAAAAJ)
 - [Control and Robotics Laboratory (CoRo)](https://en.etsmtl.ca/unites-de-recherche/coro/accueil) - From École de technologie supérieure (ÉTS) and specialized in precision robotics, parallel robotics, mechatronics, haptics, and control.
   - Director: [Ilian Bonev](https://scholar.google.ca/citations?user=YdVfbUgAAAAJ)
-- [Intelligent / Interactive / Integrated / Interdisciplinary Robot Lab (IntRoLab)](https://introlab.3it.usherbrooke.ca). From Université de Sherbrooke and specialized in service robots, all-terrain robots, interactive robots, assistive robotics, tele-health robotics, automobile, and surgical robots.
+- [Intelligent / Interactive / Integrated / Interdisciplinary Robot Lab (IntRoLab)](https://introlab.3it.usherbrooke.ca) - From Université de Sherbrooke and specialized in service robots, all-terrain robots, interactive robots, assistive robotics, tele-health robotics, automobile, and surgical robots.
   - Director: [Francois Michaud](https://scholar.google.ca/citations?user=CHlw77gAAAAJ)
 - [Laboratoire de robotique](https://robot.gmc.ulaval.ca/en/home) - From Université Laval and specialized in parallel mechanisms, articulated robotic hands, cable-driven parallel mechanisms, physical human-robot interaction, haptic devices, and assistive devices.
   - Director: [Clément Gosselin](https://scholar.google.ca/citations?user=O9VSIMoAAAAJ)
