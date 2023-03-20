@@ -1,3 +1,4 @@
+<!--lint disable double-link-->
 # Awesome Canadian Robotics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Canadian robotics open-source software, datasets, companies, laboratories, and researchers.
