@@ -126,54 +126,39 @@ The list is sorted by alphabetical order.
 
 ### Alberta
 
-- [Applied Nonlinear Controls Laboratory](http://ancl.ece.ualberta.ca), University of Alberta:
-  - Nonlinear Control, Analysis, Prediction and Influence of Systems, Nonlinear Mathematical Models, Robotics, UAVs.
+- [Applied Nonlinear Controls Laboratory](http://ancl.ece.ualberta.ca) - From the University of Alberta and specialized in nonlinear control, analysis, prediction and influence of systems, nonlinear mathematical models, robotics, and UAVs.
   - Director: [Alan Lynch](https://scholar.google.ca/citations?user=0a_D9TgAAAAJ)
-- [Artificial Intelligence and Robotics in Construction (AIRCon-Lab)](https://profsckang.wixsite.com/uofa-rlab), University of Alberta:
-  - Sensors, Actuators and Artificial Intelligence in Construction Sites.
+- [Artificial Intelligence and Robotics in Construction (AIRCon-Lab)](https://profsckang.wixsite.com/uofa-rlab) - From the University of Alberta and specialized in sensors, actuators, and artificial intelligence in construction sites.
   - Director: [Shih-Chung Jessy Kang](https://scholar.google.ca/citations?user=ezCU4-cAAAAJ)
-- [Assistive Technology Labs](https://www.ualberta.ca/rehabilitation/research/assistive-technology-labs/index.html), University of Alberta:
-  - International Assistive Technology Development, Clinical Research, Children's Development.
+- [Assistive Technology Labs](https://www.ualberta.ca/rehabilitation/research/assistive-technology-labs/index.html) - From the University of Alberta and specialized in assistive technology development, clinical research, and children's development.
   - Director: [Kim Adams](https://scholar.google.ca/citations?user=a-Qg7VgAAAAJ)
-- [Bionic Limbs for Improved Natural Control](https://blinclab.ca), University of Alberta:
-  - Sensory Motor Control, Integration of Advanced Prosthetics and Robotics Systems, Prosthetic Restoration, Rehabilitation Robotics.
+- [Bionic Limbs for Improved Natural Control](https://blinclab.ca) - From the University of Alberta and specialized in sensory motor control, integration of advanced prosthetics and robotics systems, prosthetic restoration, and rehabilitation robotics.
   - Director: [Jacqueline Hebert](https://scholar.google.ca/citations?user=Ke1MMPoAAAAJ) & [Patrick Pilarski](https://scholar.google.ca/citations?user=VGQmtWEAAAAJ)
-- [Computer Vision and Robotics Group](http://webdocs.cs.ualberta.ca/~vis), University of Alberta:
-  - Computer Vision, Robotics, Medical Imaging.
+- [Computer Vision and Robotics Group](http://webdocs.cs.ualberta.ca/~vis) - From the University of Alberta and specialized in computer vision, robotics, and medical imaging.
   - Director: [Martin Jagersand](https://scholar.google.ca/citations?user=kxAlIY4AAAAJ)
-- [Intelligent Automation Research Laboratory (iAR)](https://www.ucalgary.ca/aerospace/robotics), University of Calgary:
-  - Industrial automation with mechatronic systems, vibration, control, optimization, and artificial intelligence.
+- [Intelligent Automation Research Laboratory (iAR)](https://www.ucalgary.ca/aerospace/robotics) - From the University of Calgary and specialized in industrial automation with mechatronic systems, vibration, control, optimization, and artificial intelligence.
   - Director: [Jihyun Lee](https://scholar.google.ca/citations?user=nDMhFS8AAAAJ)
-- [Intelligent Robot Learning Laboratory](https://irll.ca/team), University of Alberta:
-  - Fundamental reinforcement learning research, Application of artificial intelligence to real-world settings
+- [Intelligent Robot Learning Laboratory](https://irll.ca/team) - From the University of Alberta and specialized in fundamental reinforcement learning research, application of artificial intelligence to real-world settings.
   - Director: [Matthew E. Taylor](https://scholar.google.ca/citations?user=edQgLXcAAAAJ)
-- [Neuromuscular Control & Biomechanics Laboratory](https://www.ncbl.ualberta.ca), University of Alberta:
-  - Human Mobility and Performance, Advanced Assistive Technology, Rehabilitation.
+- [Neuromuscular Control & Biomechanics Laboratory](https://www.ncbl.ualberta.ca) - From the University of Alberta and specialized in human mobility and performance, advanced assistive technology, and rehabilitation.
   - Director: [Hossein Rouhani](https://scholar.google.ca/citations?user=sVizzJ8AAAAJ) & [Albert H. Vette](https://scholar.google.ca/citations?user=f7w2JJoAAAAJ)
-- [Robotarium Laboratory](https://www.uvs-robotarium-lab.ca), University of Calgary:
-  - Control, Artificial Intelligence, Navigation, Localization, Mapping, Robot Cooperation & Collaboration, Human-Robot Interaction (HRI)
+- [Robotarium Laboratory](https://www.uvs-robotarium-lab.ca) - From the University of Calgary and specialized in control, artificial intelligence, navigation, localization, mapping, robot cooperation & collaboration, and human-robot interaction (HRI).
   - Director: Alex Ramirez-Serrano <!-- - no google scholar profile! seems to have low citation count -->
-- [Robotic Systems Research, Telerobotic and Biorobotic Systems Group](http://www.ece.ualberta.ca/~tbs/pmwiki), University of Alberta:
-  - Medical & Biomedical Robotics, Surgery, Rehabilitation, Image-guided Robotics, Human-Robot Interfaces, Machine Intelligence-based Solutions.
+- [Robotic Systems Research, Telerobotic and Biorobotic Systems Group](http://www.ece.ualberta.ca/~tbs/pmwiki) - From the University of Alberta and specialized in medical & biomedical robotics, surgery, rehabilitation, image-guided robotics, human-robot interfaces, and machine intelligence-based solutions.
   - Director: [Mahdi Tavakoli](https://scholar.google.ca/citations?user=w7XLOoEAAAAJ)
 <!-- - UAlberta -->
 
 ### British Columbia
 
-- [Autonomous Intelligence and Robotics Lab (AIRob)](https://robotics.sfu.ca/airob.html), Simon Fraser University:
-  - Automated planning, Multi-Agent/Robot Systems, Spatio-Temporal and Constraint Reasoning
+- [Autonomous Intelligence and Robotics Lab (AIRob)](https://robotics.sfu.ca/airob.html) - From the Simon Fraser University and specialized in automated planning, multi-agent/robot systems, spatio-temporal, and constraint reasoning.
   - Director: [Hang Ma](https://scholar.google.ca/citations?user=KJbsVl8AAAAJ)
-- [Collaborative Advances Robotics and Intelligent Systems lab (CARIS)](https://caris.mech.ubc.ca), University of British Columbia:
-  - Ethics and Human-Robot Interaction
+- [Collaborative Advances Robotics and Intelligent Systems lab (CARIS)](https://caris.mech.ubc.ca) - From the University of British Columbia and specialized in ethics and human-robot interaction.
   - Director: [Machiel Van der Loos](https://scholar.google.ca/citations?user=ze-QdW0AAAAJ)
-- [Multi-Agent Robotic Systems Lab (MARS)](https://sfumars.com), Simon Fraser University:
-  - Robotic safety, Reinforcement learning, Human intent inference, Visual navigation
+- [Multi-Agent Robotic Systems Lab (MARS)](https://sfumars.com) - From the Simon Fraser University and specialized in robotic safety, reinforcement learning, human intent inference, and visual navigation.
   - Director: [Mo Chen](https://scholar.google.ca/citations?user=19UAgLUAAAAJ)
-- [UBC Computer Vision Lab](https://vision.cs.ubc.ca), University of British Columbia:
-  - Image understanding, video understanding, human pose estimation, and understanding of sports videos using machine learning and deep learning      techniques.
+- [UBC Computer Vision Lab](https://vision.cs.ubc.ca) - From the University of British Columbia and specialized in image understanding, video understanding, human pose estimation, understanding of sports videos using machine learning and deep learning techniques.
   - Director: [James J. Little](https://scholar.google.ca/citations?user=a0za4V8AAAAJ)
-- [UBC Robotics and Control Laboratory](https://rcl.ece.ubc.ca/home-page), University of British Columbia:
-  - Medical image analysis, Image guided diagnosis and interventions, Telerobotic, Robotic control of mobile machines and manipulators
+- [UBC Robotics and Control Laboratory](https://rcl.ece.ubc.ca/home-page) - From the University of British Columbia and specialized in medical image analysis, image guided diagnosis and interventions, telerobotic, robotic control of mobile machines, and manipulators.
   - Directors: [Purang Abolmaesumi](https://scholar.google.ca/citations?user=gKZS5-IAAAAJ), [Tim Salcudean](https://scholar.google.ca/citations?user=kpp_A9wAAAAJ), [Robert Rohling](https://scholar.google.ca/citations?user=_KwSTGIAAAAJ)
 
 
@@ -192,48 +177,34 @@ The list is sorted by alphabetical order.
 
 ### Ontario
 
-- [Advanced Robotics and Intelligent Systems Laboratory (ARIS)](https://syang.uoguelph.ca/aris), University of Guelph:
-  - Intelligent Systems, Robotics, Control Systems, Vision and Signal Processing, Sensors, Communications
+- [Advanced Robotics and Intelligent Systems Laboratory (ARIS)](https://syang.uoguelph.ca/aris) - From the University of Guelph and specialized in intelligent systems, robotics, control systems, vision and signal processing, sensors, communications.
   - Director: [Simon X. Yang](https://scholar.google.ca/citations?user=cyRDiPMAAAAJ)
-- [Autonomous Systems and Biomechatronics Lab (ASB Lab)](http://asblab.mie.utoronto.ca), University of Toronto:
-  - Assistive and Social Robotics, Search and Rescue, Intelligent Robotics, 3D Sensing, Human-Robot Interaction
+- [Autonomous Systems and Biomechatronics Lab (ASB Lab)](http://asblab.mie.utoronto.ca) - From the University of Toronto and specialized in assistive and social robotics, search and rescue, intelligent robotics, 3D sensing, human-robot interaction.
   - Director: [Goldie Nejat](https://scholar.google.ca/citations?user=1pCgjH0AAAAJ)
-- [Autonomous Systems Laboratory (ASL)](https://uwaterloo.ca/autonomous-systems-lab), University of Waterloo:
-  - Robot Motion Planning, Future Transportation Systems, Autonomous Driving
+- [Autonomous Systems Laboratory (ASL)](https://uwaterloo.ca/autonomous-systems-lab) - From the University of Waterloo and specialized in robot motion planning, future transportation systems, and autonomous driving.
   - Director: [Stephen L. Smith](https://scholar.google.ca/citations?user=_gfwCNwAAAAJ)
-- [Autonomous Space Robotics Lab (ASRL)](http://asrl.utias.utoronto.ca), University of Toronto:
-  - Mobile robots, Vision-based navigation, [GitHub](https://github.com/utiasASRL)
+- [Autonomous Space Robotics Lab (ASRL)](http://asrl.utias.utoronto.ca) - From the University of Toronto and specialized in mobile robots, and vision-based navigation. Open-source softwares available on their [GitHub repo](https://github.com/utiasASRL).
   - Director: [Timothy D Barfoot](https://scholar.google.ca/citations?user=N_vPIhoAAAAJ)
-- [Autonomous Vehicle Research and Intelligence Lab (AVRIL)](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab), University of Waterloo:
-  - Passenger Vehicles,  Automated driving,  Connected (V2X) Vehicles,  ADAS,  Driverless shuttles, Commercial trucks, Warehouse and industrial robots, Field platform vehicles
+- [Autonomous Vehicle Research and Intelligence Lab (AVRIL)](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab) - From the University of Waterloo and specialized in passenger vehicles,  automated driving,  connected (V2X) vehicles,  ADAS,  driverless shuttles, commercial trucks, warehouse and industrial robots, and field platform vehicles.
   - Directors: [Amir Khajepour](https://scholar.google.ca/citations?user=TL84ll0AAAAJ), [John McPhee](https://scholar.google.ca/citations?user=boJMp7AAAAAJ)
-- [Co​ntinuum Roboti​​cs Laboratory](https://crl.utm.utoronto.ca), University of Toronto:
-  - Continuum robotics, [GitHub](https://github.com/ContinuumRoboticsLab)
+- [Co​ntinuum Roboti​​cs Laboratory](https://crl.utm.utoronto.ca) - From the University of Toronto and specialized in continuum robotics. Open-source softwares available on their [GitHub repo](https://github.com/ContinuumRoboticsLab).
   - Director: [Jessica Burgner-Kahrs](https://scholar.google.ca/citations?user=JtHZL24AAAAJ)
-- [Lakehead University Robotics Lab](https://xpliu.lakeheadu.ca/lab), Lakehead University:
-  - Biped Walking Robots, parallel robots, Nonlinear Adaptive Control and Robust Control
+- [Lakehead University Robotics Lab](https://xpliu.lakeheadu.ca/lab) - From the Lakehead University and specialized in biped walking robots, parallel robots, nonlinear adaptive control and robust control.
   - Director: [Xiaoping Liu](https://scholar.google.ca/citations?user=H8vOyBIAAAAJ)
-- [Offroad Robotics](https://offroad.engineering.queensu.ca), Queen's University:
-  - Field and mobile robotics, state estimation, mechatronics, and systems control, [GitHub](https://github.com/offroad-robotics)
+- [Offroad Robotics](https://offroad.engineering.queensu.ca) - From the Queen's University and specialized in field and mobile robotics, state estimation, mechatronics, and systems control. Open-source softwares available on their [GitHub repo](https://github.com/offroad-robotics).
   - Director: [Josh Marshall](https://scholar.google.ca/citations?user=2zOIvcUAAAAJ)
-- [People, AI, & Robots lab (PAIR)](https://www.pair.toronto.edu), University of Toronto:
-  - Robotic Manipulation, Robot Learning, Reinforcement Learning, Machine Learning, Computer Vision
+- [People, AI, & Robots lab (PAIR)](https://www.pair.toronto.edu) - From the University of Toronto and specialized in robotic manipulation, robot learning, reinforcement learning, machine learning, and computer vision.
   - Director: [Animesh Garg](https://scholar.google.ca/citations?user=zp8V7ZMAAAAJ)
-- [Robotics & Automatic Control Laboratory](http://atayebi.lakeheadu.ca/research_group.html), Lakehead University:
-  - Design of estimation and control algorithms for UAVs. Vision-aided inertial navigation systems for multi-UAV collaborative applications in GPS-denied environments
+- [Robotics & Automatic Control Laboratory](http://atayebi.lakeheadu.ca/research_group.html) - From the Lakehead University and specilalized in design of estimation and control algorithms for UAVs, vision-aided inertial navigation systems, multi-UAV collaborative applications, and GPS-denied environments.
   - Director: [Abdelhamid Tayebi](https://scholar.google.ca/citations?user=bZXTyF4AAAAJ)
-- [Space and Terrestrial Autonomous Robotic Systems (STARS Laboratory)](https://starslab.ca), University of Toronto:
-  - Collaborative Robotics, Mobile Manipulation, Multimodal Sensing, Computer Vision, Machine Learning, [GitHub](https://github.com/utiasSTARS)
+- [Space and Terrestrial Autonomous Robotic Systems (STARS Laboratory)](https://starslab.ca) - From the University of Toronto and specialized in collaborative robotics, mobile manipulation, multimodal sensing, computer vision, and machine learning. Open-source softwares available on their [GitHub repo](https://github.com/utiasSTARS).
   - Director: [Jonathan Kelly](https://scholar.google.ca/citations?user=KtSR8_0AAAAJ)
-- [Toronto Intelligent Systems Lab (TISL)](https://tisl.cs.utoronto.ca), University of Toronto:
-  - Probabilistic and Geometric Deep Learning, 3D Vision, Reinforcement Learning
+- [Toronto Intelligent Systems Lab (TISL)](https://tisl.cs.utoronto.ca) - From the University of Toronto and specialized in probabilistic and geometric deep learning, 3D vision, aand reinforcement learning.
   - Director: [Igor Gilitschenski](https://scholar.google.ca/citations?user=Nuw1Y4oAAAAJ)
-- [Toronto Robotics and AI Laboratory (TRAILab)](https://www.trailab.utias.utoronto.ca), University of Toronto:
-  - 3D Object Detection, Drone Landing, Robotic Manipulation, Robotics perception, Planning problems, [GitHub](https://github.com/TRAILab)
-  - Previously the WAVE Lab in University of Waterloo ([GitHub](https://github.com/wavelab))
+- [Toronto Robotics and AI Laboratory (TRAILab)](https://www.trailab.utias.utoronto.ca) - From the University of Toronto and specialized in 3D object detection, drone landing, robotic manipulation, robotics perception, and planning problems. Open-source softwares available on their [GitHub repo](https://github.com/TRAILab).
   - Director: [Steven Waslander](https://scholar.google.ca/citations?user=jY_Bcd8AAAAJ)
-- [Waterloo Intelligent Systems Engineering Lab (WISE Lab)](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab), University of Waterloo
-  - Autonomous Driving, Human Driving Behaviour Modeling, Safety And Quality Requirements, Machine Learning, Reinforcement Learning, Deep Learning, Simulation, [GitLab](https://git.uwaterloo.ca/wise-lab)
+  - Note: This was previously the WAVE Lab in University of Waterloo ([GitHub](https://github.com/wavelab)).
+- [Waterloo Intelligent Systems Engineering Lab (WISE Lab)](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab) - From the University of Waterloo and specialized in autonomous driving, human driving behaviour modeling, safety and quality requirements, machine learning, reinforcement learning, deep learning, and  simulation. Open-source softwares available on their [GitLab repo](https://git.uwaterloo.ca/wise-lab).
   - Director: [Krzysztof Czarnecki](https://scholar.google.ca/citations?user=ZzCpumQAAAAJ)
 
 <!-- This is a center, not a lab:
@@ -269,32 +240,23 @@ The list is sorted by alphabetical order.
 <!-- Concordia University -->
 <!-- INRS -->
 
-- [Aerospace Mechatronics Laboratory (AML)](http://aerospacemechatronics.lab.mcgill.ca), McGill:
-  - UAVs, Space robotics systems, Timber grasping
+- [Aerospace Mechatronics Laboratory (AML)](http://aerospacemechatronics.lab.mcgill.ca) - From McGill University and specialized in UAVs, space robotics systems, and timber grasping.
   - Director: [Inna Sharf](https://scholar.google.ca/citations?user=Ys2mNPkAAAAJ)
-- [Control and Robotics Laboratory (CoRo)](https://en.etsmtl.ca/unites-de-recherche/coro/accueil), École de technologie supérieure (ÉTS):
-  - Precision robotics, parallel robotics, mechatronics and haptics, control
+- [Control and Robotics Laboratory (CoRo)](https://en.etsmtl.ca/unites-de-recherche/coro/accueil) - From École de technologie supérieure (ÉTS) and specialized in precision robotics, parallel robotics, mechatronics, haptics, and control.
   - Director: [Ilian Bonev](https://scholar.google.ca/citations?user=YdVfbUgAAAAJ)
-- [Intelligent / Interactive / Integrated / Interdisciplinary Robot Lab (IntRoLab)](https://introlab.3it.usherbrooke.ca), Université de Sherbrooke:
-  - Service Robots, All-Terrain Robots, Interactive Robots, Assistive Robotics, Tele-Health Robotics, Automobile, Surgical Robots
+- [Intelligent / Interactive / Integrated / Interdisciplinary Robot Lab (IntRoLab)](https://introlab.3it.usherbrooke.ca). From Université de Sherbrooke and specialized in service robots, all-terrain robots, interactive robots, assistive robotics, tele-health robotics, automobile, and surgical robots.
   - Director: [Francois Michaud](https://scholar.google.ca/citations?user=CHlw77gAAAAJ)
-- [Laboratoire de robotique](https://robot.gmc.ulaval.ca/en/home), Université Laval:
-  - Parallel mechanisms, Articulated robotic hands, Cable-driven parallel mechanisms, Physical human-robot interaction, Haptic devices, Assistive devices
+- [Laboratoire de robotique](https://robot.gmc.ulaval.ca/en/home) - From Université Laval and specialized in parallel mechanisms, articulated robotic hands, cable-driven parallel mechanisms, physical human-robot interaction, haptic devices, and assistive devices.
   - Director: [Clément Gosselin](https://scholar.google.ca/citations?user=O9VSIMoAAAAJ)
-- [Mobile Robotics Lab (MRL)](https://www.cim.mcgill.ca/~mrl), McGill
-  - Perception, planning, underwater robotics, [GitHub](https://github.com/mcgillmrl)
+- [Mobile Robotics Lab (MRL)](https://www.cim.mcgill.ca/~mrl) - From McGill University and specialized in perception, planning, and underwater robotics. Open-source softwares available on their [GitHub repo](https://github.com/mcgillmrl).
   - Directors: [Gregory Dudek](https://scholar.google.ca/citations?user=BSORuFoAAAAJ), [David Meger](https://scholar.google.ca/citations?user=gFwEytkAAAAJ)
-- [Making Innovative Space Technology (MIST)](https://mistlab.ca), Polytechnique Montréal:
-  - Swarm robotics, multi-robot systems, [GitHub](https://github.com/MISTLab)
+- [Making Innovative Space Technology (MIST)](https://mistlab.ca) - From Polytechnique Montréal and specialized in swarm robotics, and multi-robot systems. Open-source softwares available on their [GitHub repo](https://github.com/MISTLab).
   - Director: [Giovanni Beltrame](https://scholar.google.ca/citations?user=TVHJJ9wAAAAJ)
-- [Mobile Robotics and Autonomous Systems Laboratory (MRASL)](https://www.polymtl.ca/robotique-mobile/en), Polytechnique Montréal:
-  - Perception, control, real-time planning and decision-making under uncertainty
+- [Mobile Robotics and Autonomous Systems Laboratory (MRASL)](https://www.polymtl.ca/robotique-mobile/en) - From Polytechnique Montréal and specialized in perception, control, real-time planning, and decision-making under uncertainty.
   - Director: [Jerome Le Ny](https://scholar.google.ca/citations?user=YCr3i00AAAAJ)
-- [Northern Robotics Laboratory (Norlab)](https://norlab.ulaval.ca), Université Laval:
-  - Autonomous vehicles, lidars, SLAM, and control, [GitHub](https://github.com/norlab-ulaval)
+- [Northern Robotics Laboratory (Norlab)](https://norlab.ulaval.ca) - From Université Laval and specialized ini autonomous vehicles, lidars, SLAM, control, field robotics, and cryobotics. Open-source softwares available on their [GitHub repo](https://github.com/norlab-ulaval).
   - Director: [François Pomerleau](https://scholar.google.ca/citations?user=FJ9IqNoAAAAJ)
-- [Robotics and Embodied AI Lab (REAL)](https://montrealrobotics.ca), Université de Montréal:
-  - Robotics and Embodied AI
+- [Robotics and Embodied AI Lab (REAL)](https://montrealrobotics.ca) - From Université de Montréal and specialized in robotics, and embodied AI.
   - Director: [Liam Paull](https://scholar.google.ca/citations?user=H9xADK0AAAAJ)
 
 
@@ -319,15 +281,17 @@ The list is sorted by alphabetical order.
 -->
 ### New Brunswick
 
-- [Robotics and Mechanisms Laboratory](https://www2.unb.ca/ram/links/links.html), University of New Brunswick:
-  - Parallel manipulators, Simulation of robotic systems
+- [Robotics and Mechanisms Laboratory](https://www2.unb.ca/ram/links/links.html) - From the University of New Brunswick and specialized in parallel manipulators, and simulation of robotic systems.
   - Director: [Juan A. Carretero](https://scholar.google.ca/citations?user=dGVqmGAAAAAJ)
 <!-- - UNB Robotics -->
 
+<!-- UP COMING PROFESSORS:
+- André Gallant
+-->
+
 ### Nova Scotia
 
-- [Advanced Control and Mechatronics Laboratory](http://acm.me.dal.ca/index.htm), Dalhousie University:
-  - Robust Nonlinear Control, Teleoperation Systems, Multi-Agent Systems Cooperation, Intelligent Transportation Control,Haptics, Exoskeletons, Human Machine Interfaces, Model Predictive Control, Assistive Robotics
+- [Advanced Control and Mechatronics Laboratory](http://acm.me.dal.ca/index.htm) - From Dalhousie University and specialized in robust nonlinear control, teleoperation systems, multi-agent systems cooperation, intelligent transportation control, haptics, exoskeletons, human machine interfaces, model predictive control, and assistive robotics.
   - Director: [Ya-Jun Pan](https://scholar.google.ca/citations?user=Ptjotv8AAAAJ)
 
 <!-- - Dalhouse University -->
@@ -335,16 +299,18 @@ The list is sorted by alphabetical order.
 
 ### Newfoundland
 
-- [Autonomous Ocean Systems Laboratory](https://aosl.ca), Memorial University:
-  - Marine robotics, Autonomous Underwater Vehicles (AUVs), Unmanned Surface Craft (USC)
+<!-- Moved to Bremen, Germany:
+- [Autonomous Ocean Systems Laboratory](https://aosl.ca) - From Memorial University and specialized in marine robotics, autonomous underwater vehicles (AUVs), unmanned surface craft (USC)
   - Director: [Ralf Bachmayer](https://scholar.google.ca/citations?user=r-O7810AAAAJ)
-- [Bio-inspired Robotics (BOTS)](https://www.mun.ca/engineering/research/centres-and-facilities/research-laboratories/electrical-and-computer-engineering/bio-inspired-robotics-bots), Memorial University:
-  - Swarm Robotics
+-->
+- [Bio-inspired Robotics (BOTS)](https://www.mun.ca/engineering/research/centres-and-facilities/research-laboratories/electrical-and-computer-engineering/bio-inspired-robotics-bots) - From Memorial University and specialized in swarm robotics.
   - Director: [Andrew Vardy](https://scholar.google.ca/citations?user=ccxPX38AAAAJ), [Todd Wareham](https://scholar.google.ca/citations?user=1cFXu-QAAAAJ), [David Churchill](https://scholar.google.ca/citations?user=teRseTgAAAAJ)
-- [Intelligent Systems Laboratory](https://www.mun.ca/engineering/research/centres-and-facilities/research-laboratories/mechanical-engineering/intelligent-systems-laboratory), Memorial University:
-  - Sensor design, State estimation, Pack ice field detection and tracking, Nonlinear model predictive control of mobile robots, Cooperative localization of distributed multi-robotic systems, Visual-inertial navigation, Robot perception using visual attention
+- [Intelligent Systems Laboratory](https://www.mun.ca/engineering/research/centres-and-facilities/research-laboratories/mechanical-engineering/intelligent-systems-laboratory) - From Memorial University and specialized in sensor design, state estimation, pack ice field detection and tracking, nonlinear model predictive control of mobile robots, cooperative localization of distributed multi-robotic systems, visual-inertial navigation, and robot perception using visual attention.
   - Directors: [George K. Mann](https://scholar.google.ca/citations?user=CyavUNwAAAAJ), [Ray Gosine](https://scholar.google.ca/citations?user=57WxPZMAAAAJ), [Andrew Vardy](https://scholar.google.ca/citations?user=ccxPX38AAAAJ)
+
+<!--  This is group of labs
 - [Vision, Software and Robotics Lab (VISOR)](https://www.mun.ca/engineering/research/centres-and-facilities/research-laboratories/electrical-and-computer-engineering/vision-software-and-robotics-visor-laboratory), Memorial University:
+-->
 
 <!-- Memorial University -->
 <!-- UP COMING PROFESSORS:
