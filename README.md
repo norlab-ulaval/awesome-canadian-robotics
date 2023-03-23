@@ -108,7 +108,7 @@ The list is sorted by alphabetical order.
 
 Teams, divisions, or subsidaiary working on robotics within a larger organization.
 
-- [Robotics team at IREQ, Hydro-Québec](http://www.hydroquebec.com/robotics)
+- [Hydro-Québec Research Institute (IREQ)](http://www.hydroquebec.com/robotics) - Has a team specialized in autonomous systems for power industries.
 - [General Dynamics Land System Canada](https://firstsourcerequest.gdls.com) - Has a team specialized in autonomy.
 - [LeddarTech](https://leddartech.com) - Has a team focusing on autonomous driving solutions.
 - [FPInnovations](https://web.fpinnovations.ca/forest-operations-solutions-to-help-the-canadian-forest-industry/forestry-4-0/) - Has a team specialized in the automation of forestry activities.
