@@ -71,50 +71,50 @@ The list is sorted by number of stars.
 
 ## Companies
 
-### Robot manufacturers
-
-Companies with their primary mission focusing on robotics.
-You need at least 10 employees to be listed here.
+Companies with their primary mission focusing on robotics and [registered in Canada](https://beta.canadasbusinessregistries.ca/search).
+You need at least ten (10) employees and be in operation for at least five (5) years to be listed here.
 The list is sorted by alphabetical order.
 
-- Avidbots: [Official page](https://avidbots.com)
-- Bluewrist: [Official page](https://bluewrist.com)
-- Canadensys (mobile): [Official page](https://www.canadensys.com)
-- Cellula Robotics: [Official page](https://www.cellula.com)
-- Clearpath: [Official page](https://clearpathrobotics.com), [GitHub](https://github.com/clearpathrobotics)
-- Kinova (manipulator): [Official page](https://www.kinovarobotics.com), [GitHub](https://github.com/Kinovarobotics)
-- IndroRobotics (mobile): [Official page](https://indrorobotics.ca)
-- Marginally Clever Robots, Ltd.: [Official page](https://www.marginallyclever.com)
-- Rheinmetall: [Official page](https://www.rheinmetall.ca/en/rheinmetall_canada/systemsandproducts/electronicsystems/unmanned_vehicles/index.php)
-- Robotiq (manipulator): [Official page](https://robotiq.com)
+### Robot manufacturers
+
+- [Avidbots](https://avidbots.com) - Designs, manufactures, sells, services, and supports autonomous cleaning robots.
+- [Bluewrist](https://bluewrist.com) - Develops industrial automation solutions and products in the areas of robotics and machine vision, including robot guidance, bin-picking, flexible inspection, 3D scanning and robot calibration.
+- [Cellula Robotics](https://www.cellula.com) - Designs and produces subsea robotic systems.
+- [Clearpath](https://clearpathrobotics.com) - Designs, produces, and distributes robotic systems. They have an active [GitHub repo](https://github.com/clearpathrobotics).
+- [Kinova](https://www.kinovarobotics.com) - Designs, manufactures, sells, services, and supports robotic arms. They have an active [GitHub repo](https://github.com/Kinovarobotics).
+- [IndroRobotics](https://indrorobotics.ca) - Is a UAV, ground and sea robotics research and development company.
+- [Marginally Clever Robots, Ltd.](https://www.marginallyclever.com) - Through education and thought leadership, we empower people to choose STEM/STEAM careers, build robots, and solve their problems sustainably.
+- [Robotiq](https://robotiq.com) - Designs, manufactures, sells, services, and supports robotic grippers.
 
 ### Aerospace
 
-- MDA Ltd.: [Official page](https://mda.space)
-- Mission Control Space Services Inc.: [Official page](https://www.missioncontrolspaceservices.com)
-- NGC Aerospace  Ltd.: [Official page](https://www.ngcaerospace.com)
+- [Canadensys Aerospace Corporation](https://www.canadensys.com) - Develops micro and nano space technology and smart, ruggedized vehicles.
+- [MDA](https://mda.space) - Develops and produces all Canadarms and Dextre, a versatile robot that maintains the International Space Station.
+- [Mission Control Space Services](https://www.missioncontrolspaceservices.com)
+- [NGC Aerospace](https://www.ngcaerospace.com)
 
 ### Natural Resources
 
-- MacLean Engineering: [Official page](https://macleanengineering.com)
-- Rigid Robotics: [Official page](https://rigidrobotics.com)
+- [MacLean Engineering](https://macleanengineering.com)
+- [Rigid Robotics](https://rigidrobotics.com)
 
 ### Warehouse Robotics
 
-- OTTO Motors: [Official page](https://ottomotors.com)
-- Sir Steward [Official page](https://sirsteward.com)
-- Think Logistics: [Official page](https://www.thinklogistics.com)
+- [OTTO Motors](https://ottomotors.com)
+- [Sir Steward](https://sirsteward.com) - Designs and manufactures delivery robots, smart lockers and self-serve kiosks.
+- [Think Logistics](https://www.thinklogistics.com)
 
 ## Organisations and Divisions
 
-Teams or divisions working on robotics within a larger organization.
+Teams, divisions, or subsidaiary working on robotics within a larger organization.
 
-- Hydro-Québec - [Robotics team at IREQ](http://www.hydroquebec.com/robotics)
-- General Dynamics Land System Canada - Innovation Cell
-- LeddarTech
-- FPInnovations
-- IVI: [Official page](https://www.ivisolutions.ca)
-- Area X.O: [Official page](https://areaxo.com)
+- [Robotics team at IREQ, Hydro-Québec](http://www.hydroquebec.com/robotics)
+- [General Dynamics Land System Canada](https://firstsourcerequest.gdls.com) - Has a team specialized in autonomy.
+- [LeddarTech](https://leddartech.com) - Has a team focusing on autonomous driving solutions.
+- [FPInnovations](https://web.fpinnovations.ca/forest-operations-solutions-to-help-the-canadian-forest-industry/forestry-4-0/) - Has a team specialized in the automation of forestry activities.
+- [Institut du véhicule innovant (IVI)](https://www.ivisolutions.ca)
+- [Area X.O](https://areaxo.com)
+- [Provectus Robotics Solutions Inc.](https://www.rheinmetall.ca/en/rheinmetall_canada/systemsandproducts/electronicsystems/unmanned_vehicles/index.php) - A subsidaiary of Rheinmetall. Provides autonomous navigation technology that helps solve their safety, labour, and budgetary challenges.
 
 
 ## Laboratories
