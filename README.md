@@ -25,7 +25,9 @@ We added abitrary criterias to be listed here with the intention to be transpare
   - [New Brunswick](#new-brunswick)
   - [Nova Scotia](#nova-scotia)
   - [Newfoundland](#newfoundland)
-- [Related Awesome Lists](#related-awesome-lists)
+- [Related Lists](#related-lists)
+  - [Awesome Lists](#awesome-lists)
+  - [Canadian Robotics Research Lists](#canadian-robotics-research-lists)
 
 ## Open-Source Software
 
@@ -367,8 +369,15 @@ The list is sorted by alphabetical order.
   - Director: [Ting Zou](https://scholar.google.ca/citations?user=74DtJu4AAAAJ)
 -->
 
-## Related Awesome Lists
+## Related Lists
+
+### Awesome Lists
 
 - [Awesome LIDAR](https://github.com/szenergy/awesome-lidar)
 - [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries)
 - [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds)
+
+### Canadian Robotics Research Lists
+
+- [Women in Academic Research in Robotics in Canada](https://canada-robotics-research-lists.github.io/canada-women-in-robotics-research/)
+- [BIPOC in Academic Research in Robotics in Canada](https://canada-robotics-research-lists.github.io/canada-BIPOC-in-robotics-research/)
