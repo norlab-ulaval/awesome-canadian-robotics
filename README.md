@@ -83,6 +83,7 @@ The list is sorted by alphabetical order.
 - [Bluewrist](https://bluewrist.com) - Develops industrial automation solutions and products in the areas of robotics and machine vision, including robot guidance, bin-picking, flexible inspection, 3D scanning and robot calibration.
 - [Cellula Robotics](https://www.cellula.com) - Designs and produces subsea robotic systems.
 - [Clearpath](https://clearpathrobotics.com) - Designs, produces, and distributes robotic systems. They have an active [GitHub repo](https://github.com/clearpathrobotics).
+- [FingerTech Robotics](https://www.fingertechrobotics.com) - Designs and manufactures robot parts.
 - [Kinova](https://www.kinovarobotics.com) - Designs, manufactures, sells, services, and supports robotic arms. They have an active [GitHub repo](https://github.com/Kinovarobotics).
 - [IndroRobotics](https://indrorobotics.ca) - Is a UAV, ground and sea robotics research and development company.
 - [Marginally Clever Robots, Ltd.](https://www.marginallyclever.com) - Through education and thought leadership, we empower people to choose STEM/STEAM careers, build robots, and solve their problems sustainably.
