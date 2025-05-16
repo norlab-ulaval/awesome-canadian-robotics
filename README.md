@@ -83,7 +83,7 @@ The list is sorted by alphabetical order.
 - [Avidbots](https://avidbots.com) - Designs, manufactures, sells, services, and supports autonomous cleaning robots.
 - [Bluewrist](https://bluewrist.com) - Develops industrial automation solutions and products in the areas of robotics and machine vision, including robot guidance, bin-picking, flexible inspection, 3D scanning and robot calibration.
 - [Cellula Robotics](https://www.cellula.com) - Designs and produces subsea robotic systems.
-- [Ciberworks Robotics](https://www.cyberworksrobotics.com/) - Develops autonomous robotic navigation systems for mobility aids, material transport, and service robots.
+- [Cyberworks Robotics](https://www.cyberworksrobotics.com) - Develops autonomous robotic navigation systems for mobility aids, material transport, and service robots.
 - [Clearpath](https://clearpathrobotics.com) - Designs, produces, and distributes robotic systems. They have an active [GitHub repo](https://github.com/clearpathrobotics).
 - [FingerTech Robotics](https://www.fingertechrobotics.com) - Designs and manufactures robot parts.
 - [Kinova](https://www.kinovarobotics.com) - Designs, manufactures, sells, services, and supports robotic arms. They have an active [GitHub repo](https://github.com/Kinovarobotics).
