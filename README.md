@@ -255,6 +255,8 @@ The list is sorted by alphabetical order.
   - Director: [Inna Sharf](https://scholar.google.ca/citations?user=Ys2mNPkAAAAJ)
 - [Control and Robotics Laboratory (CoRo)](https://en.etsmtl.ca/unites-de-recherche/coro/accueil) - From École de technologie supérieure (ÉTS) and specialized in precision robotics, parallel robotics, mechatronics, haptics, and control.
   - Director: [Ilian Bonev](https://scholar.google.ca/citations?user=YdVfbUgAAAAJ)
+- [Dynamics, Estimation, and Control in Aerospace and Robotics (DECAR)](https://sites.google.com/view/decarresearch/) - From McGill Univeristy and specialized in state estimation (navigation),  guidance, and control for aerial, ground, underwater and space robotic systems.
+  - Director: [James Forbes](https://scholar.google.com/citations?user=PVJW68EAAAAJ&hl=en)
 - [Intelligent / Interactive / Integrated / Interdisciplinary Robot Lab (IntRoLab)](https://introlab.3it.usherbrooke.ca) - From Université de Sherbrooke and specialized in service robots, all-terrain robots, interactive robots, assistive robotics, tele-health robotics, automobile, and surgical robots.
   - Director: [Francois Michaud](https://scholar.google.ca/citations?user=CHlw77gAAAAJ)
 - [Laboratoire de robotique](https://robot.gmc.ulaval.ca/en/home) - From Université Laval and specialized in parallel mechanisms, articulated robotic hands, cable-driven parallel mechanisms, physical human-robot interaction, haptic devices, and assistive devices.
