@@ -198,6 +198,8 @@ The list is sorted by alphabetical order.
   - Director: [Timothy D Barfoot](https://scholar.google.ca/citations?user=N_vPIhoAAAAJ)
 - [Autonomous Vehicle Research and Intelligence Lab (AVRIL)](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab) - From the University of Waterloo and specialized in passenger vehicles,  automated driving,  connected (V2X) vehicles,  ADAS,  driverless shuttles, commercial trucks, warehouse and industrial robots, and field platform vehicles.
   - Directors: [Amir Khajepour](https://scholar.google.ca/citations?user=TL84ll0AAAAJ), [John McPhee](https://scholar.google.ca/citations?user=boJMp7AAAAAJ)
+- [Canadian Surgical Technologies & Advanced Robotics (CSTAR)](https://www.eng.uwo.ca/cstar) - From the University of Western Ontario and specialized in Medical Robotics for surgery.
+  - Director: [Rajni Patel](https://scholar.google.ca/citations?user=s-wHWlAAAAAJ)
 - [Co​ntinuum Roboti​​cs Laboratory](https://crl.utm.utoronto.ca) - From the University of Toronto and specialized in continuum robotics. Open-source softwares available on their [GitHub repo](https://github.com/ContinuumRoboticsLab).
   - Director: [Jessica Burgner-Kahrs](https://scholar.google.ca/citations?user=JtHZL24AAAAJ)
 - [Lakehead University Robotics Lab](https://xpliu.lakeheadu.ca/lab) - From the Lakehead University and specialized in biped walking robots, parallel robots, nonlinear adaptive control and robust control.
