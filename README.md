@@ -79,12 +79,14 @@ The list is sorted by number of stars.
 
 ## Companies
 
-Companies with their primary mission focusing on robotics and [registered in Canada](https://beta.canadasbusinessregistries.ca/search).
+Companies with their primary mission focusing on robotics and [registered in Canada](https://ised-isde.canada.ca/cbr-rec/en/search).
 You need at least ten (10) employees and be in operation for at least five (5) years to be listed here.
 The list is sorted by alphabetical order.
 
 ### Robot manufacturers
 
+- [A&K Robotics](https://www.aandkrobotics.com) - Designs electric micromobility platforms and self-driving robotic pods. 
+- [Able Innovations](https://www.ableinnovations.com/) - Designs and produces automated patient transfer solutions.
 - [Avidbots](https://avidbots.com) - Designs, manufactures, sells, services, and supports autonomous cleaning robots.
 - [Bluewrist](https://bluewrist.com) - Develops industrial automation solutions and products in the areas of robotics and machine vision, including robot guidance, bin-picking, flexible inspection, 3D scanning and robot calibration.
 - [Cellula Robotics](https://www.cellula.com) - Designs and produces subsea robotic systems.
@@ -110,6 +112,7 @@ The list is sorted by alphabetical order.
 
 ### Warehouse Robotics
 
+- [Apera AI](https://apera.ai) - Develops vision and manipulation algorithms and hardware to improve factory productivity. 
 - [OTTO Motors](https://ottomotors.com)
 - [Sir Steward](https://sirsteward.com) - Designs and manufactures delivery robots, smart lockers and self-serve kiosks.
 - [Think Logistics](https://www.thinklogistics.com)
