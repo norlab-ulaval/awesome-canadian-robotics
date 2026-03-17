@@ -94,9 +94,14 @@ The list is sorted by alphabetical order.
 - [Clearpath](https://clearpathrobotics.com) - Designs, produces, and distributes robotic systems. They have an active [GitHub repo](https://github.com/clearpathrobotics).
 - [FingerTech Robotics](https://www.fingertechrobotics.com) - Designs and manufactures robot parts.
 - [Kinova](https://www.kinovarobotics.com) - Designs, manufactures, sells, services, and supports robotic arms. They have an active [GitHub repo](https://github.com/Kinovarobotics).
+- [Haply Robotics](https://www.haply.co/) - Designs and produces touch enables interfaces.
 - [IndroRobotics](https://indrorobotics.ca) - Is a UAV, ground and sea robotics research and development company.
 - [Marginally Clever Robots, Ltd.](https://www.marginallyclever.com) - Through education and thought leadership, we empower people to choose STEM/STEAM careers, build robots, and solve their problems sustainably.
 - [Robotiq](https://robotiq.com) - Designs, manufactures, sells, services, and supports robotic grippers.
+
+### Agriculture 
+
+- [Vineland Research & Innovation Centre](https://www.vinelandresearch.com) - Develops horticultural technology solutions. 
 
 ### Aerospace
 
@@ -104,6 +109,10 @@ The list is sorted by alphabetical order.
 - [MDA](https://mda.space) - Develops and produces all Canadarms and Dextre, a versatile robot that maintains the International Space Station.
 - [Mission Control Space Services](https://www.missioncontrolspaceservices.com)
 - [NGC Aerospace](https://www.ngcaerospace.com)
+
+### Construction
+
+- [Promise Robotics](https://promiserobotics.com/) - Develops automation towards a more affordable and sustainable built environment.
 
 ### Natural Resources
 
@@ -211,6 +220,10 @@ The list is sorted by alphabetical order.
   - Director: [Josh Marshall](https://scholar.google.ca/citations?user=2zOIvcUAAAAJ)
 - [People, AI, & Robots lab (PAIR)](https://www.pair.toronto.edu) - From the University of Toronto and specialized in robotic manipulation, robot learning, reinforcement learning, machine learning, and computer vision.
   - Director: [Animesh Garg](https://scholar.google.ca/citations?user=zp8V7ZMAAAAJ)
+- [Robot Vision and Learnig](https://rvl.cs.toronto.edu/) - From the University of Toronto and specialized in safe robot learning, 3D vision and generative models for simulation.
+  - Director: [Florian Shkurti](https://scholar.google.com/citations?user=BDmtLHsAAAAJ)
+- [Robora Lab](https://roboralab.com/) - From Queen's University and specialized in navigation and learning for drones. 
+  - Director: [Melissa Greeff](https://scholar.google.com/citations?user=VC1-H1AAAAAJ)
 - [Robotics & Automatic Control Laboratory](http://atayebi.lakeheadu.ca/research_group.html) - From the Lakehead University and specilalized in design of estimation and control algorithms for UAVs, vision-aided inertial navigation systems, multi-UAV collaborative applications, and GPS-denied environments.
   - Director: [Abdelhamid Tayebi](https://scholar.google.ca/citations?user=bZXTyF4AAAAJ)
 - [Space and Terrestrial Autonomous Robotic Systems (STARS Laboratory)](https://starslab.ca) - From the University of Toronto and specialized in collaborative robotics, mobile manipulation, multimodal sensing, computer vision, and machine learning. Open-source softwares available on their [GitHub repo](https://github.com/utiasSTARS).
