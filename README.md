@@ -13,6 +13,7 @@ We added abitrary criterias to be listed here with the intention to be transpare
 - [Datasets](#datasets)
 - [Companies](#companies)
   - [Robot manufacturers](#robot-manufacturers)
+  - [Agriculture] (#agriculture)
   - [Aerospace](#aerospace)
   - [Natural Resources](#natural-resources)
   - [Warehouse Robotics](#warehouse-robotics)
