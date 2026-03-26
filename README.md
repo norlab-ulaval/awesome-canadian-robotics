@@ -27,9 +27,6 @@ We added abitrary criterias to be listed here with the intention to be transpare
   - [New Brunswick](#new-brunswick)
   - [Nova Scotia](#nova-scotia)
   - [Newfoundland](#newfoundland)
-- [Related Lists](#related-lists)
-  - [Awesome Lists](#awesome-lists)
-  - [Canadian Robotics Research Lists](#canadian-robotics-research-lists)
 
 ## Open-Source Software
 
@@ -65,7 +62,7 @@ The list is sorted by number of stars.
 
 ## Datasets
 
-- [The Boreas Dataset](https://www.boreas.utias.utoronto.ca) - The Boreas dataset was collected by driving a repeated route over the course of 1 year resulting in stark seasonal variations. In total, Boreas contains over 350km of driving data including several sequences with adverse weather conditions such as rain and heavy snow.
+- [The Boreas Dataset](https://www.boreas.utias.utoronto.ca) - Dataset collected by driving a repeated route over the course of 1 year, resulting in stark seasonal variations. In total, Boreas contains over 350km of driving data, including several sequences with adverse weather conditions such as rain and heavy snow.
   - [pyboreas](https://github.com/utiasASRL/pyboreas) - Devkit for the Boreas autonomous driving dataset. [![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/pyboreas?style=social)](https://github.com/utiasASRL/pyboreas/stargazers)
 - [The Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca) -  The CADC dataset, collected during winter within the Region of Waterloo, Canada, aims to promote research to improve self-driving in adverse weather conditions.
 - [Leddar PixSet Dataset](https://leddartech.com/solutions/leddar-pixset-dataset/) - The First Full-Waveform Flash LIDAR Dataset for Autonomous Vehicle R&D. The PixSet dataset contains 97 sequences for a total of roughly 29k frames using the AV sensor suite. Each frame has been manually annotated with 3D bounding boxes. The sequences have been gathered in various Canadian environments (e.g., urban, suburban like highway), climatic (e.g., sunny, cloudy, rainy) conditions and illumination (e.g., day, night, twilight) conditions with an instrumented vehicle.
