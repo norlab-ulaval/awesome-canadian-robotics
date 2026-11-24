@@ -353,6 +353,7 @@ The list is sorted by alphabetical order.
 
 ### Awesome Lists
 
+- [Awesome Canada](https://github.com/leon-wbr/awesome-canada#readme)
 - [Awesome LIDAR](https://github.com/szenergy/awesome-lidar)
 - [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries)
 - [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds)
